@@ -1,0 +1,6 @@
+---
+author: "The name of the speaker"
+title: "Risk factors for developing type 2 diabetes. Prediabetes"
+description: "add here a short description of the seminar"
+date: "2024-03-06"
+---
