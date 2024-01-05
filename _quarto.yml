@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "internationalization"
+  title: "Internationalization"
   navbar:
     right:
       - about.qmd
       - seminars.qmd
+    tools:
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/steno-aarhus/internationalization
+
 format:
   html:
     theme: cosmo
