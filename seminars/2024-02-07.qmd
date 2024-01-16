@@ -1,6 +1,10 @@
 ---
-title: "Global diabetes burden. Prevalence, incidence and mortality from type 2 diabetes, type 1 diabetes, and gestational diabetes"
+title: "Carga global de diabetes tipo 2. Prevalencia, incidencia y mortalidad"
+subtitle:"Global  burden of type 2 diabetes. Prevalence, incidence and mortality"
+description: "add here a short description of the seminar"
+author: "Daniel Witte and Omar Silverman"
 date: "2024-02-07"
 ---
 
-[Register here](https://aarhusuniversity.zoom.us/meeting/register/u5MtduGvqT0iHt0DisT_OptLZMHTvpRRxhge)
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5MtduGvqT0iHt0DisT_OptLZMHTvpRRxhge)

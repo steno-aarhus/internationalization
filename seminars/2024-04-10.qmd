@@ -1,4 +1,10 @@
 ---
-title: "Prevention of type 2 diabetes. Landmark prevention trials, innovative prevention strategies, and the role of technology in diabetes prevention"
+title: "Atención primaria de diabetes tipo 2. Lineamientos, calidad y estándares en la atención" 
+subtitle: "Type 2 diabetes primary care. Guidelines, quality of care, and standards of medical care"
+description: "add here a short description of the seminar"
+author: "TBC"
 date: "2024-04-10"
 ---
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u50ucOqpqTIpEtemZ2lip0P_hYzRJ5dp065l)
