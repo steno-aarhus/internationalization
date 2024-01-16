@@ -1,7 +1,7 @@
 ---
 title: "Atención primaria de diabetes tipo 2. Lineamientos, calidad y estándares en la atención" 
 subtitle: "Type 2 diabetes primary care. Guidelines, quality of care, and standards of medical care"
-description: "add here a short description of the seminar"
+# description: "add here a short description of the seminar"
 author: "TBC"
 date: "2024-04-10"
 ---

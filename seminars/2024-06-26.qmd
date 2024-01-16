@@ -1,7 +1,7 @@
 ---
 title: "Prevención de diabetes tipo 2. Ensayos clínicos emblemáticos, estrategias de prevención innovadoras y el rol de la tecnología en la prevención de diabetes. Prediabetes" 
 subtitle: "Prevention of type 2 diabetes. Landmark prevention trials, innovative prevention strategies, and the role of technology in diabetes prevention. Prediabetes"
-description: "add here a short description of the seminar"
+# description: "add here a short description of the seminar"
 author: "Omar Silverman"
 date: "2024-06-26"
 ---
