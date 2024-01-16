@@ -1,6 +1,10 @@
 ---
-author: "The name of the speaker"
-title: "Risk factors for developing type 2 diabetes. Prediabetes"
-description: "add here a short description of the seminar"
+title: "Epidemiología de las complicaciones de diabetes tipo 2"
+subtitle: "Epidemiology of type diabetes 2 complications"
+# description: "add here a short description of the seminar"
+author: "TBC"
 date: "2024-03-06"
 ---
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5Mud-GvqjMtGtdrMV7gtbXub5x_vjF7azJV)
