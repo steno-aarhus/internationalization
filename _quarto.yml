@@ -1,22 +1,32 @@
 project:
-  type: website
+  type: sdca-theme
 
 website:
   title: "Internationalization"
+  site-url: "https://steno-aarhus.github.io/internationalization/"
+  repo-url: "https://github.com/steno-aarhus/internationalization"
   navbar:
-    right:
-      - about.qmd
-      - seminars.qmd
     tools:
       - icon: github
-        href: https://github.com/steno-aarhus/internationalization
+        href: "https://github.com/steno-aarhus/"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+      - icon: three-dots-vertical
+        menu:
+          - text: Official site
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Common Docs
+            href: "https://steno-aarhus.github.io/research"
+          - text: Epi Stats
+            href: "https://steno-aarhus.github.io/epi-stats"
+          - text: Register Space
+            href: "https://steno-aarhus.github.io/register-space"
+          - text: Internationalization
+            href: "https://steno-aarhus.github.io/internationalization"
 
-format:
-  html:
-    theme: cosmo
-    css: styles.css
+format: sdca-theme-html
 
 editor: 
-  markdown: 
+  markdown:
     wrap: 72
     canonical: true
