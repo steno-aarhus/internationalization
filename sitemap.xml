@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-06-26.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-02-07.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-05-22.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/index.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-04-10.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
+    <loc>https://steno-aarhus.github.io/internationalization/LICENSE.html</loc>
+    <lastmod>2024-02-18T01:49:39.757Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-03-06.html</loc>
-    <lastmod>2024-02-18T01:48:11.893Z</lastmod>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-04-10.html</loc>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/index.html</loc>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-05-22.html</loc>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-02-07.html</loc>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-06-26.html</loc>
+    <lastmod>2024-02-18T01:49:39.765Z</lastmod>
   </url>
 </urlset>
