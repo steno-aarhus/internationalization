@@ -1,4 +1,23 @@
 ---
 title: "Internationalization of the research strategy at Steno Diabetes Center Aarhus"
 subtitle: "Expanding SDCA research networks to the Latin America Region"
+listing:
+  contents: seminars
+  sort: "date"
+  type: default
+  sort-ui: false
+  filter-ui: false
+  fields: 
+    - date
+    - title
+    - description
+    - author
 ---
+
+## Online seminars
+
+Steno Diabetes Center Aarhus (SDCA) is launching an online seminar
+series on diabetes research as part of its internationalization of their
+research strategy towards the Latin America Region. These online
+seminars will run over a year with the purpose of knowledge exchange and
+establishing a network of collaborators with common research interests.
