@@ -1,7 +1,7 @@
 ---
-title: "Buenas prácticas en el análsis de datos. Reproducibilidad y ciencia abierta para la investigación en epidemiología de diabetes" 
-subtitle: "Good practice in data analysis. Reproducibility and open science frameworks for diabetes epidemiology research"
-# description: "add here a short description of the seminar"
+title: "Epidemiología de las complicaciones de diabetes tipo 2" 
+subtitle: "Epidemiology of type diabetes 2 complications"
+description: "add here a short description of the seminar"
 author: "Omar Silverman"
 date: "2024-05-22"
 ---
