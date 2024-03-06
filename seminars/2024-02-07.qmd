@@ -8,4 +8,4 @@ date: "2024-02-07"
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/u5MtduGvqT0iHt0DisT_OptLZMHTvpRRxhge)
 
-[slides](2024-02-07.pdf)
+See the available [slides](2024-02-07.pdf) for the presentation.
