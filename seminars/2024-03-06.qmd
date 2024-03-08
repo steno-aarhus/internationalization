@@ -1,10 +1,9 @@
 ---
-title: "Epidemiología de las complicaciones de diabetes tipo 2"
-subtitle: "Epidemiology of type diabetes 2 complications"
-# description: "add here a short description of the seminar"
-author: "TBC"
+title: "Prediabetes"
+#subtitle: ""
+description: "En este seminario vamos a hablar sobre prediabetes desde un punto de vista individual y poblacional, y las diferentes pruebas diagnósticas con las que se puede identificar. La discusión va a girar en torno a cuáles de estas pruebas son las más utilizadas en la práctica cotidiana y la transición a utilizar hemoglobina glucosilada como medida diagnóstica"
+author: "Daniel Witte"
 date: "2024-03-06"
 ---
 
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/u5Mud-GvqjMtGtdrMV7gtbXub5x_vjF7azJV)
+[slides]()
