@@ -1,9 +1,11 @@
 ---
 title: "Prediabetes"
-#subtitle: ""
-description: "En este seminario vamos a hablar sobre prediabetes desde un punto de vista individual y poblacional, y las diferentes pruebas diagnósticas con las que se puede identificar. La discusión va a girar en torno a cuáles de estas pruebas son las más utilizadas en la práctica cotidiana y la transición a utilizar hemoglobina glucosilada como medida diagnóstica"
+description: "En este seminario hablamos sobre prediabetes desde un punto de vista individual y poblacional, y sobre las diferentes pruebas diagnósticas con las que se puede identificar. La discusión giró en torno a cuáles de estas pruebas son las más utilizadas en la práctica cotidiana y la transición a utilizar hemoglobina glucosilada como medida diagnóstica"
 author: "Daniel Witte"
 date: "2024-03-06"
 ---
 
-[slides]()
+[slides](2024-03-06.pdf)
+
+[Accede a la grabación del seminarion
+aqui:](https://youtu.be/qUJnwgDarm4)
