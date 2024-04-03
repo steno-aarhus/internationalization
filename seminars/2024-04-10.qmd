@@ -1,8 +1,8 @@
 ---
-title: "Atención primaria de diabetes tipo 2. Lineamientos, calidad y estándares en la atención" 
-subtitle: "Type 2 diabetes primary care. Guidelines, quality of care, and standards of medical care"
-# description: "add here a short description of the seminar"
-author: "TBC"
+title: "Guías de Práctica Clínica en Diabetes" 
+subtitle: "Clinical practice guidelines for diabetes care"
+description: "Las Guías de Práctica Clínica (GPC) constituyen una herramienta útil para ayudar al personal de salud y a los pacientes en el proceso de la toma de decisiones sobre cuáles son las intervenciones más adecuadas para resolver un problema de salud en circunstancias sanitarias específicas. Este seminario abordará que son las guías de práctica clínica en diabetes, cuáles son sus objetivos y su utilidad y se discutirán las dificultades en su elaboración y aplicación"
+author: "Daniel Croatto"
 date: "2024-04-10"
 ---
 
