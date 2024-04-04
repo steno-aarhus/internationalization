@@ -1,8 +1,8 @@
 ---
 title: "Epidemiología de las complicaciones de diabetes tipo 2" 
 subtitle: "Epidemiology of type diabetes 2 complications"
-description: "add here a short description of the seminar"
-author: "Omar Silverman"
+# description: "add here a short description of the seminar"
+author: "TBC"
 date: "2024-05-22"
 ---
 
