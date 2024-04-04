@@ -1,23 +1,18 @@
 ---
 title: "Carga global de diabetes tipo 2. Prevalencia, incidencia y mortalidad"
 subtitle: "Global  burden of type 2 diabetes. Prevalence, incidence and mortality"
-<<<<<<< HEAD
-description:"En este seminario se presentó al Steno Diabetes Center Aarhus, 
-su estrategia de internacionalización de la investigación, y los seminarios en 
-línea. El tema de la sesión fue la carga global de diabetes con un enfoque en
-prevalencia, sus componentes y su relación dinámica con incidencia y mortalidad"
-
-=======
->>>>>>> 6506e1d8c66aa30d41b1008b0fdfa8247ebed3f6
-author: "Daniel Witte and Omar Silverman"
+description: |
+  En este seminario se presentó al Steno Diabetes Center Aarhus, su estrategia de 
+  internacionalización de la investigación, y los seminarios en línea. El tema de 
+  la sesión fue la carga global de diabetes con un enfoque en prevalencia, sus 
+  componentes y su relación dinámica con incidencia y mortalidad.
+author: 
+  - Daniel Witte
+  - Omar Silverman
 date: "2024-02-07"
 ---
 
-<<<<<<< HEAD
-[slides](2024-02-07.pdf)
-=======
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/u5MtduGvqT0iHt0DisT_OptLZMHTvpRRxhge)
 
 See the available [slides](2024-02-07.pdf) for the presentation.
->>>>>>> 6506e1d8c66aa30d41b1008b0fdfa8247ebed3f6
