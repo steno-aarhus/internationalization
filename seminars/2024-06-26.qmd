@@ -2,9 +2,9 @@
 title: "Buenas prácticas en el análsis de datos. Reproducibilidad y
 ciencia abierta para la investigación en epidemiología de diabetes"
 subtitle: "Good practice in data analysis. Reproducibility and open
-science frameworks for diabetes epidemiology research" \# description:
-"add here a short description of the seminar" author: "Omar Silverman"
-=======
+science frameworks for diabetes epidemiology research" 
+# description: "add here a short description of the seminar" 
+author: "Omar Silverman"
 ---
 
 [Registrate aquí/register
