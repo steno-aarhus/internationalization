@@ -1,10 +1,9 @@
 ---
-title: "Epidemiología de las complicaciones de diabetes tipo 2" 
-subtitle: "Epidemiology of type diabetes 2 complications"
-# description: "add here a short description of the seminar"
-author: "TBC"
+title: "Epidemiología de diabetes tipo 1/ Registro nacional de pacientes con diabetes tipo 1- RENACED-DT1" 
+subtitle: "Epidemiology of type 1 diabetes/ National type 1 diabetes patients register- RENACED-DT1"
+description: "En este seminario se presentó el panorama actual de la diabetes tipo 1, y se presentó el registro nacional de pacientes con diabetes tipo 1 de México"
+author: "Paula Diaz y Raquel Faradji"
 date: "2024-05-22"
 ---
 
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/u5cqfuGuqz4uHtEnOIoRx9QbSwu5rzgXUFX-)
+[Presentation](https://aarhusuniversity.zoom.us/meeting/register/u5cqfuGuqz4uHtEnOIoRx9QbSwu5rzgXUFX-)
