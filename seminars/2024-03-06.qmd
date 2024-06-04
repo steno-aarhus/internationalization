@@ -5,7 +5,7 @@ author: "Daniel Witte"
 date: "2024-03-06"
 ---
 
-Presentación [diapositivas aquí](2024-03-06.pdf)
+[presentación](2024-03-06.pdf)
 
 [Accede a la grabación del seminario
 aqui:](https://youtu.be/qUJnwgDarm4)

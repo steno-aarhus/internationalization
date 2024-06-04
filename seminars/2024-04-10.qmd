@@ -6,7 +6,7 @@ author: "Daniel Croatto"
 date: "2024-04-10"
 ---
 
-[slides](2024-04-10.pdf)
+[presentación](2024-04-10.pdf)
 
 [Accede a la grabación del seminario
 aqui:](https://youtu.be/bbgpwEjKl4s)

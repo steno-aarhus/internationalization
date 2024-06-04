@@ -12,4 +12,4 @@ author:
 date: "2024-02-07"
 ---
 
-Presenatción [diapositivas aquí](2024-02-07.pdf)
+[presentación](2024-02-07.pdf)

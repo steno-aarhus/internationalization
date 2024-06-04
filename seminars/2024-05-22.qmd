@@ -6,7 +6,7 @@ author: "Paula Diaz y Raquel Faradji"
 date: "2024-05-22"
 ---
 
-[slides](2024-05-22.pdf)
+[presentación](2024-05-22.pdf)
 
 [Accede a la grabación del seminario
 aqui:](https://youtu.be/OqVsEPvqsU0)
