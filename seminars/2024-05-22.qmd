@@ -8,5 +8,4 @@ date: "2024-05-22"
 
 [presentación](2024-05-22.pdf)
 
-[Accede a la grabación del seminario
-aqui:](https://youtu.be/OqVsEPvqsU0)
+[Accede a la grabación del seminario aquí](https://youtu.be/OqVsEPvqsU0)
