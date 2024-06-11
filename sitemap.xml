@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-03-06.html</loc>
-    <lastmod>2024-06-04T10:44:37.014Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-05-22.html</loc>
-    <lastmod>2024-06-04T10:44:37.054Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-06-26.html</loc>
-    <lastmod>2024-06-04T10:44:37.054Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/LICENSE.html</loc>
-    <lastmod>2024-06-04T10:44:36.934Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/index.html</loc>
-    <lastmod>2024-06-04T10:44:36.938Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/directory.html</loc>
-    <lastmod>2024-06-04T10:44:36.938Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-02-07.html</loc>
-    <lastmod>2024-06-04T10:44:36.982Z</lastmod>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-08-14.html</loc>
+    <lastmod>2024-06-11T15:20:59.235Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-04-10.html</loc>
-    <lastmod>2024-06-04T10:44:37.026Z</lastmod>
+    <lastmod>2024-06-11T15:20:59.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-02-07.html</loc>
+    <lastmod>2024-06-11T15:20:59.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/directory.html</loc>
+    <lastmod>2024-06-11T15:20:59.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/index.html</loc>
+    <lastmod>2024-06-11T15:20:59.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/LICENSE.html</loc>
+    <lastmod>2024-06-11T15:20:59.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-06-26.html</loc>
+    <lastmod>2024-06-11T15:20:59.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-05-22.html</loc>
+    <lastmod>2024-06-11T15:20:59.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/internationalization/seminars/2024-03-06.html</loc>
+    <lastmod>2024-06-11T15:20:59.191Z</lastmod>
   </url>
 </urlset>
