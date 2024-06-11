@@ -1,10 +1,12 @@
 ---
-title: "TBA"
-subtitle: "TBA" 
+title: "Diabetes tipo 2 de inicio temprano en México"
+subtitle: "Early type 2 diabetes diagnosis in Mexico" 
 # description: "add here a short description of the seminar" 
-author: "TBA"
+author: "Dr. Carlos A. Aguilar Salinas"
 date: "2024-06-26"
 ---
+
+[Publicidad](2024-06-26.pdf)
 
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/u5EtcO2qpzgtGNXtWyNr_pQaenzxZSu9y7dD)
