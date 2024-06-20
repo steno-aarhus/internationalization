@@ -1,6 +1,6 @@
 ---
 title: "Diabetes tipo 2 de inicio temprano en México"
-subtitle: "Early type 2 diabetes diagnosis in Mexico" 
+subtitle: "Early onset type 2 diabetes in Mexico" 
 # description: "add here a short description of the seminar" 
 author: "Dr. Carlos A. Aguilar Salinas"
 date: "2024-06-26"
