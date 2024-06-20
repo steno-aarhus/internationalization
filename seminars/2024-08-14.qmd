@@ -3,7 +3,7 @@ title: "Epidemiología de las complicaiones y mortalidad por diabetes mellitus t
 subtitle: "Epidemiology of type 2 diabetes complications and mortality: data from Latin-America" 
 # description: "add here a short description of the seminar" 
 author: "Dr. Antonio Bernabe-Ortiz"
-date: "2024-06-26"
+date: "2024-08-14"
 ---
 
 [Publicidad](2024-08-14.pdf)
