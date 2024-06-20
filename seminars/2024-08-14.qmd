@@ -5,6 +5,7 @@ subtitle: "Epidemiology of type 2 diabetes complications and mortality: data fro
 author: "Dr. Antonio Bernabe-Ortiz"
 date: "2024-06-26"
 ---
+
 [Publicidad](2024-08-14.pdf)
 
 [Registrate aquí/register
