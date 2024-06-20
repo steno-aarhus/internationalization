@@ -5,3 +5,6 @@ title: "TBA"
 #author: ""
 date: "2024-11-20"
 ---
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5cpdemrqjotHtwJeGsWUO1Mj8yGDxDWc1ws)

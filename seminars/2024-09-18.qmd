@@ -2,6 +2,9 @@
 title: "Presentaciones cortas de los miembros de la red"
 subtitle: "Short presentations from the network members" 
 # description: "add here a short description of the seminar" 
-#author: "Dr. Antonio Bernabe-Ortiz"
+#author: ""
 date: "2024-09-18"
 ---
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5Eucu2sqzsoH9ejHz8e8sb_k-8I6zXFFu85)

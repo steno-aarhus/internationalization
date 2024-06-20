@@ -1,7 +1,10 @@
 ---
 title: "TBA"
-#subtitle: "Short presentations from the network" 
+#subtitle: "" 
 # description: "add here a short description of the seminar" 
 #author: ""
 date: "2024-10-23"
 ---
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5Yrd-Gsrz0rHdZad4jOOZec5e1-foDC97Ws)
