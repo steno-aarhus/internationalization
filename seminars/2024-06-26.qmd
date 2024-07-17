@@ -6,7 +6,7 @@ author: "Dr. Carlos A. Aguilar Salinas"
 date: "2024-06-26"
 ---
 
-[Publicidad](2024-06-26.pdf)
+[Presentación/slides](2024-06-26.pdf)
 
 [Accede a la grabación del seminario aquí/access the recording of the
 seminar here:](https://youtu.be/ep3ipMxFs0Q)
