@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Incidencia de diabetes tipo 1 y su relación con la carga genética"
 #subtitle: "" 
 # description: "add here a short description of the seminar" 
-#author: ""
+#author: "Dr. Segundo Seclen Santisteban"
 date: "2024-12-11"
 ---
 
