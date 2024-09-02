@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Estudios de cohorte digitales"
 #subtitle: "" 
 # description: "add here a short description of the seminar" 
-#author: ""
+author: "Gloria Aguayo y Omar Silverman"
 date: "2024-11-20"
 ---
 
