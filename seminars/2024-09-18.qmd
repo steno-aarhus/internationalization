@@ -2,7 +2,7 @@
 title: "Presentaciones cortas de los miembros de la red"
 subtitle: "Short presentations from the network members" 
 # description: "add here a short description of the seminar" 
-#author: ""
+author: "Miembros de la red"
 date: "2024-09-18"
 ---
 
