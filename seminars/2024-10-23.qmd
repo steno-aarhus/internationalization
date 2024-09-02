@@ -2,7 +2,7 @@
 title: "TBA"
 #subtitle: "" 
 # description: "add here a short description of the seminar" 
-#author: ""
+author: "Dr. Juan Carlos Lizarzaburu Robles"
 date: "2024-10-23"
 ---
 
