@@ -2,7 +2,7 @@
 title: "Epidemiología de diabetes tipo 1/ Registro nacional de pacientes con diabetes tipo 1- RENACED-DT1" 
 subtitle: "Epidemiology of type 1 diabetes/ National type 1 diabetes patients register- RENACED-DT1"
 description: "En este seminario se presentó el panorama actual de la diabetes tipo 1, y se presentó el registro nacional de pacientes con diabetes tipo 1 de México"
-author: "Paula Diaz y Raquel Faradji"
+author: "Dra. Paula Diaz y Dra. Raquel Faradji"
 date: "2024-05-22"
 ---
 
