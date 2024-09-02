@@ -6,5 +6,7 @@ subtitle: "Short presentations from the network members"
 date: "2024-09-18"
 ---
 
+[Publicidad/Advertising](2024-09-18.pdf)
+
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/u5Eucu2sqzsoH9ejHz8e8sb_k-8I6zXFFu85)
