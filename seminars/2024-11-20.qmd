@@ -2,7 +2,7 @@
 title: "Estudios de cohorte digitales"
 subtitle: "La inteligencia artificial digital y la investigación sobre la diabetes. Estudio de cohorte de la Región Central de Dinamarca"
 #description: "En este seminario queremos enfocar la discusión a las oportunidades de establecer cohortes digitales en la LATAM" 
-author: "Gloria Aguayo y Omar Silverman"
+author: "Dra. Gloria Aguayo y Omar Silverman"
 date: "2024-11-20"
 ---
 
