@@ -1,9 +1,12 @@
 ---
 title: "Presentaciones cortas de los miembros de la red"
 subtitle: "Short presentations from the network members" 
-# description: "add here a short description of the seminar" 
+description: "En este seminario tenemos seis invitados de diferentes países, incluyendo Chile, Argentina, Colombia y México. Se presentan temas sobre investigación en diabetes con un enfoque clínico y epidemiológico que se complementan con enfoques de investigación cualitativa y de ciencias básicas" 
 author: "Miembros de la red"
 date: "2024-09-18"
 ---
 
 [Presentación/slides](2024-09-18.pdf)
+
+[Accede a la grabación del seminario aqui/Access the recording of the
+seminar here:](https://youtu.be/CvPOl60ARRI)
