@@ -1,6 +1,6 @@
 ---
 title: "Utilidad de la glicemia 1h-post carga en la caracterización de sujetos con Prediabetes"
-#subtitle: "" 
+subtitle: "Usefulness of 1h-post-load glycemia in the characterization of subjects with Prediabetes" 
 # description: "add here a short description of the seminar" 
 author: "Dr. Juan Carlos Lizarzaburu Robles"
 date: "2024-10-23"
