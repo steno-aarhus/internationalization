@@ -6,7 +6,4 @@ author: "Dr. Juan Carlos Lizarzaburu Robles"
 date: "2024-10-23"
 ---
 
-[Publicidad/Advertising](2024-10-23.pdf)
-
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/u5Yrd-Gsrz0rHdZad4jOOZec5e1-foDC97Ws)
+[Presentación/slides](2024-10-23.pdf)
