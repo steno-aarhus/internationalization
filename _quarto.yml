@@ -2,10 +2,13 @@ project:
   type: sdca-theme
 
 website:
-  title: "Internationalization"
+  title: "LATAM"
   site-url: "https://steno-aarhus.github.io/internationalization/"
   repo-url: "https://github.com/steno-aarhus/internationalization"
   navbar:
+    left: 
+      - href: seminars.qmd
+      - href: grants.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
