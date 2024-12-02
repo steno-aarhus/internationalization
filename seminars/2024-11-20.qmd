@@ -1,12 +1,9 @@
 ---
 title: "Estudios de cohorte digitales"
 subtitle: "La inteligencia artificial digital y la investigación sobre la diabetes. Estudio de cohorte de la Región Central de Dinamarca"
-#description: "En este seminario queremos enfocar la discusión a las oportunidades de establecer cohortes digitales en la LATAM" 
+description: "En este seminario se presentaron dos ejemplos diferentes de estudios de cohorte digitales y se enfocó la discusión en las oportunidades de establecer cohortes digitales en la LATAM" 
 author: "Dra. Gloria Aguayo y Omar Silverman"
 date: "2024-11-20"
 ---
 
-[Publicidad/Advertising](2024-11-20.pdf)
-
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/u5cpdemrqjotHtwJeGsWUO1Mj8yGDxDWc1ws)
+[Presentación/slides](2024-11-20.pdf)
