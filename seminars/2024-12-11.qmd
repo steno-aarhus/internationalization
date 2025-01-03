@@ -1,6 +1,6 @@
 ---
 title: "Incidencia de diabetes tipo 1 y su relación con la carga genética"
-#subtitle: "" 
+subtitle: "Incidence of type 1 diabetes and its relationship with the genetic load" 
 description: "En este seminario se presentó un panorama general de la diabetes tipo 1,  haciendo énfasis en el componente genético de la enfermedad. Se mostraron resultados sobre incidencia de diabetes tipo 1 y los marcadores genéticos asociados en población Peruana" 
 author: "Dr. Segundo Seclen Santisteban"
 date: "2024-12-11"
