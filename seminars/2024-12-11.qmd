@@ -1,12 +1,12 @@
 ---
 title: "Incidencia de diabetes tipo 1 y su relación con la carga genética"
 #subtitle: "" 
-# description: "add here a short description of the seminar" 
+description: "En este seminario se presentó un panorama general de la diabetes tipo 1,  haciendo énfasis en el componente genético de la enfermedad. Se mostraron resultados sobre incidencia de diabetes tipo 1 y los marcadores genéticos asociados en población Peruana" 
 author: "Dr. Segundo Seclen Santisteban"
 date: "2024-12-11"
 ---
 
-[Publicidad/Advertising](2024-12-11.pdf)
+[Presentación/slides](2024-12-11.pdf)
 
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/u5Eocu2trToqH9VyURGPZjO9cwUulNZyE35l)
+[Accede a la grabación del seminario aquí/access the seminar recording
+here](https://youtu.be/rDyB_VoSGvc)
