@@ -1,5 +1,5 @@
 ---
-title: "Seminars"
+title: "Seminarios en línea"
 #description: "Expanding SDCA research networks to the Latin America Region"
 # update with a description of the smeinars
 listing:
@@ -15,10 +15,10 @@ listing:
     - author
 ---
 
-## Online seminars
-
-Steno Diabetes Center Aarhus (SDCA) has online seminar series on
-diabetes research as part of its internationalization of their research
-strategy towards the Latin America Region. These online seminars will
-run over a year with the purpose of knowledge exchange and establishing
-a network of collaborators with common research interests.
+El Centro Steno Aarhus de Diabetes (SDCA) lleva a cabo una serie de
+seminarios en línea sobre investigación en diabetes cómo parte de su
+estrategia de internacionalización hacia la región de América Latina.
+Los objetivos de estos seminarios son tres: conocer la investigación en
+diabetes que se realiza en los diferentes grupos/contextos/.the purpose
+of knowledge exchange and establishing a network of collaborators with
+common research interests.
