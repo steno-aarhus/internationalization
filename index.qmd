@@ -1,3 +1,15 @@
 ---
-title: "Welcome to SDCA-LATAM network"
+#title: "Bienvenidos(as) a la red SDCA-LATAM"
 ---
+
+::: {layout-ncol="2"}
+Este proyecto tiene el objetivo de crear y expandir redes de
+colaboración con investigadores(as) de instituciones en la región de
+América Latina. Mediante una estrategia bottom-up, el proyecto de
+internacionalización promueve el intercambio de conocimiento mediante
+actividades educativas y de investigación que puedan contribuir al
+avance en la agenda de investigación en diabetes en la región de América
+Latina.
+
+![](images/dk-latam_map.svg)
+:::
