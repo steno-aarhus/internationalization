@@ -1,0 +1,12 @@
+---
+title: "Utilidad de las nuevas clasificaciones de Diabetes"
+subtitle: "Usefullnes of the new diabetes classifications" 
+# description: "add here a short description of the seminar" 
+author: "Dr. Gabriel Matta"
+date: "2025-01-22"
+---
+
+[Publicidad/Advertisement](2025-01-22.pdf)
+
+[Registrate aquí/Register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5Ikd--tqDwoEtDc8e0EH0AQHXYDZcOlkWXt)
