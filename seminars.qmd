@@ -15,10 +15,9 @@ listing:
     - author
 ---
 
-El Centro Steno Aarhus de Diabetes (SDCA) lleva a cabo una serie de
-seminarios en línea sobre investigación en diabetes cómo parte de su
-estrategia de internacionalización hacia la región de América Latina.
-Los objetivos de estos seminarios son tres: conocer la investigación en
-diabetes que se realiza en los diferentes grupos/contextos/.the purpose
-of knowledge exchange and establishing a network of collaborators with
-common research interests.
+SDCA lleva a cabo una serie de seminarios en línea sobre investigación
+en diabetes cómo parte de su estrategia de internacionalización hacia la
+región de América Latina. Los objetivos de estos seminarios son el
+intercambio de conocimiento con un enfoque en la investigación en
+diabetes que se realiza en los diferentes grupos y contextos, conocer
+sus intereses de investigación e identificar potenciales colaboradores.
