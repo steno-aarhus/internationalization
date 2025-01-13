@@ -1,0 +1,12 @@
+---
+title: "Comprendiendo la complejidad en la Salud Pública con inteligencia artificial y registros poblacionales"
+subtitle: "Understanding complexity in Public Health by using artificial intelligence and population-based registers" 
+# description: "add here a short description of the seminar" 
+author: "Postdoc Adrian G. Zucco"
+date: "2025-06-18"
+---
+
+[Publicidad/advertisement]()
+
+[Registrate aquí/register
+here:](https://aarhusuniversity.zoom.us/meeting/register/o7idsZ9iS4mIimB6cpcYBg)

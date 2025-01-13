@@ -1,0 +1,22 @@
+---
+title: "Calendario seminarios 2025"
+#description: ""
+listing:
+  contents: calendar
+  type: default
+  sort: "date asc"
+  sort-ui: false
+  filter-ui: false
+  fields: 
+    - date
+    - title
+    - description
+    - author
+---
+
+SDCA lleva a cabo una serie de seminarios en línea sobre investigación
+en diabetes cómo parte de su estrategia de internacionalización hacia la
+región de América Latina. Los objetivos de estos seminarios son el
+intercambio de conocimiento con un enfoque en la investigación en
+diabetes que se realiza en los diferentes grupos y contextos, conocer
+sus intereses de investigación e identificar potenciales colaboradores.

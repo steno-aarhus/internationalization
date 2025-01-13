@@ -1,0 +1,10 @@
+---
+title: "Presentaciones cortas de los miembros de la red"
+#subtitle: "" 
+# description: "add here a short description of the seminar" 
+#author: ""
+date: "2025-03-19"
+---
+
+[Registrate aquí/register
+here:](https://aarhusuniversity.zoom.us/meeting/register/u5Avc-2qqDIoH9LWsBss0IHheMcgbC0dMBf8)
