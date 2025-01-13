@@ -1,7 +1,6 @@
 ---
-title: "Seminarios en línea"
-#description: "Expanding SDCA research networks to the Latin America Region"
-# update with a description of the smeinars
+title: "Seminarios 2024"
+description: "En este sitio puedes encontrar las presentaciones en formato pdf y la liga a la grabación en nuestro canal de YouTube"
 listing:
   contents: seminars
   type: default
@@ -14,10 +13,3 @@ listing:
     - description
     - author
 ---
-
-SDCA lleva a cabo una serie de seminarios en línea sobre investigación
-en diabetes cómo parte de su estrategia de internacionalización hacia la
-región de América Latina. Los objetivos de estos seminarios son el
-intercambio de conocimiento con un enfoque en la investigación en
-diabetes que se realiza en los diferentes grupos y contextos, conocer
-sus intereses de investigación e identificar potenciales colaboradores.
