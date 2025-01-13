@@ -12,5 +12,5 @@ actividades educativas y de investigación que puedan contribuir al
 avance en la agenda de investigación en diabetes en la región de América
 Latina.
 
-![](images/internationalization_map.svg)
+![](images/internationalization_map.png)
 :::
