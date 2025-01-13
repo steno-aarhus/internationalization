@@ -2,12 +2,6 @@
   {
     "listing": "/seminars.html",
     "items": [
-      "/seminars/2025-06-18.html",
-      "/seminars/2025-05-21.html",
-      "/seminars/2025-04-23.html",
-      "/seminars/2025-03-19.html",
-      "/seminars/2025-02-19.html",
-      "/seminars/2025-01-22.html",
       "/seminars/2024-12-11.html",
       "/seminars/2024-11-20.html",
       "/seminars/2024-10-23.html",
@@ -18,6 +12,17 @@
       "/seminars/2024-04-10.html",
       "/seminars/2024-03-06.html",
       "/seminars/2024-02-07.html"
+    ]
+  },
+  {
+    "listing": "/calendar.html",
+    "items": [
+      "/calendar/2025-01-22.html",
+      "/calendar/2025-02-19.html",
+      "/calendar/2025-03-19.html",
+      "/calendar/2025-04-23.html",
+      "/calendar/2025-05-21.html",
+      "/calendar/2025-06-18.html"
     ]
   }
 ]
