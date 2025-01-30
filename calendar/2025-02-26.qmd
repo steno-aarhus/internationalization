@@ -1,7 +1,12 @@
 ---
-title: "TBA"
-#subtitle: "" 
+title: "Efectividad de la telemedicina en la prevención de diabetes tipo 2"
+subtitle: "The effectiveness of telemedicine in the prevention of type 2 diabetes mellitus: a systematic review and meta-analysis of interventions" 
 # description: "add here a short description of the seminar" 
-#author: ""
+author: "Dr. Harold Lizardo Torres Aparcana"
 date: "2025-02-26"
 ---
+
+[Publicidad/advertisement](2025-02-26.pdf)
+
+[Registrate aquí/register
+here](https://aarhusuniversity.zoom.us/meeting/register/u5AlcOygqj8pGN2H90m4227f_2Ecz7ncKHyp)
