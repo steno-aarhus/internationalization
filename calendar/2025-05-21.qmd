@@ -1,10 +1,12 @@
 ---
-title: "TBA"
-#subtitle: "" 
+title: "Carga de las enfermedades metabólicas: perspectivas desde América Latina"
+#subtitle: "Burden of metabolic diseases: insights from Latin America" 
 # description: "add here a short description of the seminar" 
 author: "Dr. Carlos Toro Huamanchumo"
 date: "2025-05-21"
 ---
+
+[Publicidad/advertisement](2025-05-21.pdf)
 
 [Registrate aquí/register
 here:](https://aarhusuniversity.zoom.us/meeting/register/u5Esf--urzkiH9yM3QEmzn9Q5_YMmpOnYNt7)
