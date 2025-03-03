@@ -1,0 +1,6 @@
+---
+title: "Presentaciones cortas"
+subtitle: "Short presetations from the network members"
+author: "Miembros de la red"
+date: "2025-09-24"
+---

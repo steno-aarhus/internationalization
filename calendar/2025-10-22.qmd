@@ -1,0 +1,6 @@
+---
+#title:  
+subtitle: "Do diabetes remission definitions make sense? evidence from clinical records and epidemiological studies"
+author: "Victor Villlalobos"
+date: "2025-10-22"
+---
