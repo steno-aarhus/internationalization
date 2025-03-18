@@ -8,5 +8,5 @@ date: "2025-01-22"
 
 [Presentación/ slides](2025-01-22.pdf)
 
-\[Accede a la grabación del seminario aquí/access the seminar recording
-here\]
+[Accede a la grabación del seminario aquí/access the seminar recording
+here](https://youtu.be/r6rvFk0vqc4)
