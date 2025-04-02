@@ -6,7 +6,7 @@ author: "Miembros de la red"
 date: "2025-03-19"
 ---
 
-[Publicidad/Advertisement](2025-03-19.pdf)
+[Presentación/slides](2025-03-19.pdf)
 
-[Registrate aquí/register
-here:](https://aarhusuniversity.zoom.us/meeting/register/u5Avc-2qqDIoH9LWsBss0IHheMcgbC0dMBf8)
+[Accede a la grabación del seminario aquí /Access the seminar recording
+here]()
