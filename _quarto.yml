@@ -9,6 +9,7 @@ website:
     left: 
       - href: calendar.qmd
       - href: seminars.qmd
+      - href: network.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
