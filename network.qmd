@@ -1,0 +1,25 @@
+---
+title: "Quienes somos?"
+description: "La red SDCA-LATAM está conformada por colegas interesados(as) en la investigación en diabetes. Estos son algunos de los miembros de la red"
+#listing:
+ # contents: seminars
+  #type: default
+  #sort: "date desc"
+  #sort-ui: false
+  #filter-ui: false
+  #fields: 
+  #  - date
+  #  - title
+  #  - description
+  #  - author
+---
+
+::: {layout-ncol="2"}
+![](images/omar_silverman.png)
+
+## ***Omar Silverman es postdoc en el Steno Diabetes Center Aarhus (SDCA) y en la Universidad de Aarhus en Aarhus, Dinamarca***
+
+Omar es epidemiólogo. Le interesa la investigación en epidemiología de
+la diabetes con un énfasis en relaciones familiares. Es co-lider del
+proyecto de internacionalización de la investigación en el SDCA.
+:::
