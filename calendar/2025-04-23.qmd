@@ -6,7 +6,7 @@ author: "Dr. Noël C. Barengo"
 date: "2025-04-23"
 ---
 
-[Publicidad/Advertisement](2025-04-23.pdf)
+[Presentación/slides](2025-04-23.pdf)
 
-[Registrate aquí/register
-here:](https://aarhusuniversity.zoom.us/meeting/register/u5EkdOGpqTgrG9Wx77Y27dEzl3uNuttyNR2L)
+[Accede a la grabación del seminario aquí/Access the seminar recording
+here](https://youtu.be/zTfRuC_HkcA)
