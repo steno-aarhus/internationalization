@@ -1,0 +1,6 @@
+---
+#title: "Seminario en línea de diabetes"
+#subtitle
+#Author
+date: "2025-12-17"
+---
