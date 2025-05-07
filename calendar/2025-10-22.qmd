@@ -1,6 +1,11 @@
 ---
-#title:  
-subtitle: "Do diabetes remission definitions make sense? evidence from clinical records and epidemiological studies"
-author: "Victor Villlalobos"
+title: "Tienen sentido las definiciones de remisión de diabetes? Un análisis en 150,000 pacientes - Implicaciones para la práctica"  
+subtitle: "Does diabetes remission definitions make sense? An analysis of 150,000 patients- Implications for practice"
+author: "Victor Villalobos"
 date: "2025-10-22"
 ---
+
+[Publicidad/advertisement](2025-10-22.pdf)
+
+[Registrate aqui/register
+here](https://aarhusuniversity.zoom.us/j/68080676226)
