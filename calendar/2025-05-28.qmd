@@ -1,6 +1,9 @@
 ---
 title: "Grupos de trabajo"
 format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Agenda
@@ -21,6 +24,8 @@ format: revealjs
         abierta/reproducibilidad
 -   Vamos a conocernos- breakout rooms
 
+------------------------------------------------------------------------
+
 ```{r}
 library(tidyverse)
 library(readr)
@@ -28,22 +33,40 @@ library(stringr)
 library(janitor)
 library(dplyr)
 library(here)
-
 load("C:/Users/au574377/Documents/internationalization/data/teams.rda")
-
 ```
 
 ## Antecedentes. Proyecto de internacionalización
 
-![](images/int_strategy_slide1.png)
+![](C:/Users/au574377/Documents/internationalization/images/int_strategy_slide1.png)
 
-## Grupos de trabajo
+## Antecedentes. Proyecto de internacionalización
 
--   Cuántos registros y a que grupos de trabajo?
+![](C:/Users/au574377/Documents/internationalization/images/int_strategy_slide2.png)
 
-```{r}
+## Ciencia abierta y reproducibilidad
+
+-   Se refiere al acceso abierto a las publicaciones científicas, los
+    datos de investigación, los metadatos, los recursos educativos
+    abiertos, los programas informáticos y los códigos fuente y los
+    equipos informáticos que están disponibles en el dominio público o
+    protegidos por derechos de autor y son objeto de una licencia
+    abierta que permite el acceso a ellos, así como su reutilización,
+    reconversión, adaptación y distribución en condiciones específicas,
+    y que han sido facilitados a todos los agentes de manera inmediata o
+    lo más rápidamente posible y de forma gratuita. DOI:
+
+    https://doi.org/10.54677/YDOG4702
+
+## Ciencia abierta y reproducibilidad
+
+![](https://en.wikipedia.org/wiki/Open_science#/media/File:UNESCO-Open_science-pillars-en.png)
+
+## Grupos de trabajo - Cuántos registros y a que grupos de trabajo?
+
+```{r, echo=FALSE}
 teams %>%  
-  count(team)
+  tabyl(team)
 ```
 
 ------------------------------------------------------------------------
@@ -100,27 +123,20 @@ teams %>%
 -   Registros DT1: L- María Paz, Vanessa Peralta, Paula Díaz; L- Juan
     Pablo, Gloria, Karen
 
-------------------------------------------------------------------------
-
 ## Vamos a conocernos- breakout rooms
 
 -   Roles- lider- guía la sesión, alguién del grupo toma notas (tipo
     minutas de la sesión, por ejemplo: temas discutidos, acuerdos
     alcanzados).
-
 -   Introducción: lider se presenta (nombre, donde dive, a que se
     dedica) y le da la palabra a cada miembro del grupo. 3 minutos cada
     quién
 
-------------------------------------------------------------------------
-
 ## Vamos a conocernos. Discusión
 
-Cada miembro del grupo toma dos minutos para reflexionar sobre:
-
--   expectativas: qué esperas obtener de participar en esta actividad?
--   contribución: cómo te gustaría contribuir en esta actividad?
--   tiempo de dedicación: cuán tiempo puedes dedicar a esta actividad?
--   metas: que resultados te gustaría obtener con esta actividad?
-
-Todos comparten sus reflexiones (tres minutos cada quién)
+Cada miembro del grupo toma dos minutos para reflexionar sobre: -
+expectativas: qué esperas obtener de participar en esta actividad? -
+contribución: cómo te gustaría contribuir en esta actividad? - tiempo de
+dedicación: cuán tiempo puedes dedicar a esta actividad? - metas: que
+resultados te gustaría obtener con esta actividad? Todos comparten sus
+reflexiones (tres minutos cada quién)
