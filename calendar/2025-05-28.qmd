@@ -1,0 +1,126 @@
+---
+title: "Grupos de trabajo"
+format: revealjs
+---
+
+# Agenda
+
+-   Antecedentes. Proyecto de internacionalización
+-   Ciencia abierta y reproducibilidad
+-   Organización de la actividad
+
+------------------------------------------------------------------------
+
+# Agenda
+
+-   Tipos de colaboraciones
+    -   co-escritura de artículos
+    -   co-aplicación a fondos
+    -   co-producción de proyectos
+    -   entrenamiento en herramientas de colaboración, ciencia
+        abierta/reproducibilidad
+-   Vamos a conocernos- breakout rooms
+
+```{r}
+library(tidyverse)
+library(readr)
+library(stringr)
+library(janitor)
+library(dplyr)
+library(here)
+
+load("C:/Users/au574377/Documents/internationalization/data/teams.rda")
+
+```
+
+## Antecedentes. Proyecto de internacionalización
+
+![](images/int_strategy_slide1.png)
+
+## Grupos de trabajo
+
+-   Cuántos registros y a que grupos de trabajo?
+
+```{r}
+teams %>%  
+  count(team)
+```
+
+------------------------------------------------------------------------
+
+## Grupos de trabajo
+
+-   equipo y país
+
+```{r, echo=FALSE}
+teams %>%  
+  tabyl(team, country)
+```
+
+------------------------------------------------------------------------
+
+## Grupos de trabajo
+
+-   antecedente y equipo
+
+```{r, echo=FALSE}
+teams %>%  
+  tabyl(background,team)
+```
+
+------------------------------------------------------------------------
+
+## Grupos de trabajo
+
+-   equipo y etapa de la carrera
+
+```{r, echo=FALSE}
+teams %>%  
+  tabyl(team, research_stage)
+```
+
+------------------------------------------------------------------------
+
+## Grupos de trabajo
+
+-   equipo y lider
+
+```{r, echo=FALSE}
+teams %>%  
+  tabyl(team, team_lead)
+```
+
+------------------------------------------------------------------------
+
+## Grupos de trabajo
+
+-   Complicaciones: lider- José Luis/Daniel C.; Antonio y Cecilia
+-   Prevención-prediabetes: L-Brenda, Kikey, Gabriel, Billy; L-Noel,
+    Martha, Marianela, Jorge; L-María Gpe., Carlos T, Harold
+-   Registros DT1: L- María Paz, Vanessa Peralta, Paula Díaz; L- Juan
+    Pablo, Gloria, Karen
+
+------------------------------------------------------------------------
+
+## Vamos a conocernos- breakout rooms
+
+-   Roles- lider- guía la sesión, alguién del grupo toma notas (tipo
+    minutas de la sesión, por ejemplo: temas discutidos, acuerdos
+    alcanzados).
+
+-   Introducción: lider se presenta (nombre, donde dive, a que se
+    dedica) y le da la palabra a cada miembro del grupo. 3 minutos cada
+    quién
+
+------------------------------------------------------------------------
+
+## Vamos a conocernos. Discusión
+
+Cada miembro del grupo toma dos minutos para reflexionar sobre:
+
+-   expectativas: qué esperas obtener de participar en esta actividad?
+-   contribución: cómo te gustaría contribuir en esta actividad?
+-   tiempo de dedicación: cuán tiempo puedes dedicar a esta actividad?
+-   metas: que resultados te gustaría obtener con esta actividad?
+
+Todos comparten sus reflexiones (tres minutos cada quién)
