@@ -11,17 +11,7 @@ editor:
 -   Antecedentes. Proyecto de internacionalización
 -   Ciencia abierta y reproducibilidad
 -   Organización de la actividad
-
-------------------------------------------------------------------------
-
-# Agenda
-
 -   Tipos de colaboraciones
-    -   co-escritura de artículos
-    -   co-aplicación a fondos
-    -   co-producción de proyectos
-    -   entrenamiento en herramientas de colaboración, ciencia
-        abierta/reproducibilidad
 -   Vamos a conocernos- breakout rooms
 
 ------------------------------------------------------------------------
@@ -60,9 +50,26 @@ load("C:/Users/au574377/Documents/internationalization/data/teams.rda")
 
 ## Ciencia abierta y reproducibilidad
 
-![](https://en.wikipedia.org/wiki/Open_science#/media/File:UNESCO-Open_science-pillars-en.png)
+![](C:/Users/au574377/Documents/internationalization/images/OS_slide.png)
+https://en.wikipedia.org/wiki/Open_science#/media/File:UNESCO-Open_science-pillars-en.png
 
-## Grupos de trabajo - Cuántos registros y a que grupos de trabajo?
+## Organización de la actividad
+
+-   Algunas ideas para la discusión
+-   Conocerse y discusión en grupos de trabajo
+-   Discusión en pleno y pasos a seguir
+
+## Tipos de colaboraciones
+
+-   co-escritura de artículos
+-   co-aplicación a fondos
+-   co-producción de proyectos
+-   entrenamiento en herramientas de colaboración, ciencia
+    abierta/reproducibilidad
+
+## Grupos de trabajo
+
+-   Cuántos participantes y a que grupos de trabajo?
 
 ```{r, echo=FALSE}
 teams %>%  
@@ -70,8 +77,6 @@ teams %>%
 ```
 
 ------------------------------------------------------------------------
-
-## Grupos de trabajo
 
 -   equipo y país
 
@@ -82,8 +87,6 @@ teams %>%
 
 ------------------------------------------------------------------------
 
-## Grupos de trabajo
-
 -   antecedente y equipo
 
 ```{r, echo=FALSE}
@@ -93,8 +96,6 @@ teams %>%
 
 ------------------------------------------------------------------------
 
-## Grupos de trabajo
-
 -   equipo y etapa de la carrera
 
 ```{r, echo=FALSE}
@@ -103,8 +104,6 @@ teams %>%
 ```
 
 ------------------------------------------------------------------------
-
-## Grupos de trabajo
 
 -   equipo y lider
 
@@ -117,7 +116,7 @@ teams %>%
 
 ## Grupos de trabajo
 
--   Complicaciones: lider- José Luis/Daniel C.; Antonio y Cecilia
+-   Complicaciones: L- José Luis/Daniel C.; Antonio y Cecilia
 -   Prevención-prediabetes: L-Brenda, Kikey, Gabriel, Billy; L-Noel,
     Martha, Marianela, Jorge; L-María Gpe., Carlos T, Harold
 -   Registros DT1: L- María Paz, Vanessa Peralta, Paula Díaz; L- Juan
@@ -134,9 +133,19 @@ teams %>%
 
 ## Vamos a conocernos. Discusión
 
-Cada miembro del grupo toma dos minutos para reflexionar sobre: -
-expectativas: qué esperas obtener de participar en esta actividad? -
-contribución: cómo te gustaría contribuir en esta actividad? - tiempo de
-dedicación: cuán tiempo puedes dedicar a esta actividad? - metas: que
-resultados te gustaría obtener con esta actividad? Todos comparten sus
-reflexiones (tres minutos cada quién)
+-   Cada miembro del grupo toma dos minutos para reflexionar sobre:
+    -   expectativas: qué esperas obtener de participar en esta
+        actividad?
+    -   contribución: cómo te gustaría contribuir en esta actividad?
+    -   tiempo de dedicación: cuánto tiempo puedes dedicar a esta
+        actividad?
+    -   metas: que resultados te gustaría obtener con esta actividad?
+-   Todos comparten sus reflexiones (tres minutos cada quién)
+
+## Discusión en pleno
+
+-   Comparten experiencias
+-   Pasos a seguir:
+    -   Omar comparte correos electrónicos, y grupo al que pertencen.
+    -   Cada grupo programa una reunión de seguimiento para definir su
+        proyecto y la manera de colaborar.
