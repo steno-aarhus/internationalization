@@ -12,6 +12,9 @@ listing:
     - title
     - description
     - author
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 SDCA lleva a cabo una serie de seminarios en línea sobre investigación
