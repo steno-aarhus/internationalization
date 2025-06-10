@@ -1,11 +1,11 @@
 ---
-title: "Puntajes z de IMC y presentación de diabetes tipo 1 en niños"
-#subtitle: ""
-author: "Valeria Hirschler"
+title: "Puntajes z- IMC y debut de diabetes tipo 1 en niños"
+subtitle: "BMI z-scores and type 1 diabetes onset in children"
+author: "Dra. Valeria Hirschler"
 date: "2025-09-24"
 ---
 
-[Publicidad/advertisement]()
+[Publicidad/advertisement](2025-09-24.pdf)
 
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/j/65362593984)
