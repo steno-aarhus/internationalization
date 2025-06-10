@@ -6,7 +6,6 @@ author: "Dr. Carlos Toro Huamanchumo"
 date: "2025-05-21"
 ---
 
-[Publicidad/advertisement](2025-05-21.pdf)
+[Presentación/slides]()
 
-[Registrate aquí/register
-here:](https://aarhusuniversity.zoom.us/meeting/register/u5Esf--urzkiH9yM3QEmzn9Q5_YMmpOnYNt7)
+[Accede a la grabación/access the recording here]()
