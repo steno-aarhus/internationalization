@@ -1,11 +1,11 @@
 ---
 title: "Carga de las enfermedades metabólicas: perspectivas desde América Latina"
-#subtitle: "Burden of metabolic diseases: insights from Latin America" 
+subtitle: "Burden of metabolic diseases: insights from Latin America" 
 # description: "add here a short description of the seminar" 
 author: "Dr. Carlos Toro Huamanchumo"
 date: "2025-05-21"
 ---
 
-[Presentación/slides]()
+[Presentación/slides](2025-05-21.pdf)
 
 [Accede a la grabación/access the recording here]()
