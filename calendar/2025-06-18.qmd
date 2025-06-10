@@ -2,7 +2,7 @@
 title: "Comprendiendo la complejidad en la Salud Pública con inteligencia artificial y registros poblacionales"
 subtitle: "Understanding complexity in Public Health by using artificial intelligence and population-based registers" 
 # description: "add here a short description of the seminar" 
-author: "Postdoc Adrian G. Zucco"
+author: "Profesor asistente Adrian G. Zucco"
 date: "2025-06-18"
 ---
 
