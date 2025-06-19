@@ -8,4 +8,5 @@ date: "2025-05-21"
 
 [Presentación/slides](2025-05-21.pdf)
 
-[Accede a la grabación/access the recording here]()
+[Accede a la grabación/access the recording
+here](https://youtu.be/72xalNU8fO4)
