@@ -1,25 +1,159 @@
 ---
 title: "Quienes somos?"
-description: "La red SDCA-LATAM está conformada por colegas interesados(as) en la investigación en diabetes. Estos son algunos de los miembros de la red"
-#listing:
- # contents: seminars
-  #type: default
-  #sort: "date desc"
-  #sort-ui: false
-  #filter-ui: false
-  #fields: 
-  #  - date
-  #  - title
-  #  - description
-  #  - author
+css: styles.css
 ---
 
-::: {layout-ncol="2"}
-![](images/omar_silverman.png)
+La red SDCA-LATAM está conformada por colegas interesados(as) en la
+investigación en diabetes. Estos son algunos de los miembros de la red:
 
-## ***Omar Silverman es postdoc en el Steno Diabetes Center Aarhus (SDCA) y en la Universidad de Aarhus en Aarhus, Dinamarca***
+<!-- Images alternate between left and right -->
 
-Omar es epidemiólogo. Le interesa la investigación en epidemiología de
-la diabetes con un énfasis en relaciones familiares. Es co-lider del
-proyecto de internacionalización de la investigación en el SDCA.
+::: {.column-body-outset layout-ncol="1"}
+![Dinamarca](images/profiles/Flag_of_Denmark.png){.profile-picture
+fig-alt="Dinamarca profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![Omar Silverman](images/profiles/omar_silverman.png){.profile-picture
+fig-alt="Omar Silverman profile picture."}
+
+Omar Silverman es postdoc en el Steno Diabetes Center Aarhus (SDCA) y la
+Universidad de Aarhus en Dinamarca. Le interesa la investigación en
+epidemiología de la diabetes con un énfasis en relaciones familiares. Es
+co-lider del proyecto de internacionalización de la investigación en el
+SDCA
+
+Daniel Witte es profesor de Epidemiología de la diabetes en la
+Universidad de Aarhus y en el SDCA, Dinamarca. Le interesa la
+investigación en prevención y predicción de diabetes, así como de sus
+complicaciones. Daniel es co-lider del proyecto de internacionalización
+de la investigación en el SDCA
+
+![Daniel Witte](images/profiles/daniel_witte.png){.profile-picture
+fig-alt="Daniel Witte profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="1"}
+![México](images/profiles/Flag_of_Mexico.png){.profile-picture
+fig-alt="México profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![José Luis Flores
+Guerrero](images/profiles/jose_luis_flores.png){.profile-picture
+fig-alt="José Luis Flores Guerrero profile picture."}
+
+José Luis Flores es investigador en la Benemérita Universidad Autónoma
+de Puebla, Puebla, Mexico. Sus intereses se centran en la investigación
+interdisciplinaria sobre diabetes y enfermedades cardiometabólicas,
+integrando epidemiología y ciencia de datos, en particular el uso de R
+con fines de reproducibilidad
+
+María Zavala es coordinadora de investigación en ciencias de la salud en
+la Universidad Autónoma de Guadalajara, Ciencias de la Salud,
+Guadalajara, Jalisco, México. Su investigación se centra en la
+afectación del sistema inmune en enfermedades crónico degenerativas,
+autoinmunidad y enfermedades infecciosas
+
+![María G. Zavala
+Cerna](images/profiles/Maria_Zavala.png){.profile-picture
+fig-alt="María G. Zavala Cerna profile picture."}
+
+![Cecilia G. Acero
+Vidal](images/profiles/cecilia_acero.png){.profile-picture
+fig-alt="Cecilia Acero profile picture."}
+
+Cecilia Acero es postdoc en el Centro de Investigaciones y Estudios
+Superiores en Antropología Social (CIESAS) Sede Sureste (Chiapas). Su
+investigación está centrada en las experiencias de personas que viven
+con diabetes tipo 2 en contextos de alta desigualdad social, étnica y
+territorial en el sur de México
+:::
+
+::: {.column-body-outset layout-ncol="1"}
+![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
+fig-alt="Colombia profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![Juan Pablo Pérez
+Bedoya](images/profiles/juan_pablo_perez.png){.profile-picture
+fig-alt="Juan Pablo Pérez Bedolla profile picture."}
+
+Juan Pablo Pérez es estudiante de doctorado en epidemiología en la
+Universidad de Antioquia, Medellín, Colombia. Le interesa la
+investigación relacionada con el perfil epidemiológico y los
+determinantes exposómicos en diabetes tipo 1.
+
+Gabriel Matta es médico internista con maestría en diabetes y obesidad.
+Es investigador independiente interesado en epidemiología. Actualmente
+trabaja con una cohorte de pacientes en Antioquia (Colombia) en la cuál
+le interesa describir las características sociodemográficas de los
+participantes, el pérfil de riesgo cardiovascular y su adherencia a
+guías clínias
+
+![Gabriel J. Matta
+Herrera](images/profiles/gabriel_matta.png){.profile-picture
+fig-alt="Gabriel J. Matta Herrera profile picture."}
+
+![Brenda Villalobos
+Renteria](images/profiles/brenda_villalobos.png){.profile-picture
+fig-alt="Brenda Villalobos Renteria profile picture."}
+
+Brenda Villalobos es médico internista y cardiologa intensivista. Es
+investigadora independiente interesada en realizar investigación
+clínica. Uno de sus principales intereses es el manejo integral de la
+prediabetes y su estrecha relación con la obesidad, así como el
+desarrollo de protocolos de atención para pacientes con un enfoque
+personalizado
+:::
+
+::: {.column-body-outset layout-ncol="1"}
+![Perú](images/profiles/Flag_of_Peru.png){.profile-picture
+fig-alt="Perú profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![Harold Lizardo Torres
+Aparcana](images/profiles/lizardo_torres.png){.profile-picture
+fig-alt="Harold Lizardo Torres Aparcana profile picture."}
+
+Lizardo Torres es médico endocrinólogo en la Clínica San Felipe, Lima,
+Perú. Tiene una maestría en epidemiología y está interesado en la
+investigación sobre prevención de la diabetes tipo 2 y sus
+complicaciones cardio-reno-metabólicas
+:::
+
+::: {.column-body-outset layout-ncol="1"}
+![Argentina](images/profiles/Flag_of_Argentina.png){.profile-picture
+fig-alt="Argentina profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![Daniela Bensusan
+Martínez](images/profiles/dany_bensusan.png){.profile-picture
+fig-alt="Daniela Bensusan Martínez profile picture."}
+
+Daniela Bensusan es médica general e investigadora independiente. Sus
+intereses de investigación se relacionan con la estrimación de la carga
+de diabetes en la comunidad, retinopatía diabética, así como el manejo
+metabólico y de complicaciones de diabetes 2 en el primer nivel de
+atención
+:::
+
+::: {.column-body-outset layout-ncol="1"}
+![Estados Unidos de
+América](images/profiles/Flag_of_the_United_States.png){.profile-picture
+fig-alt="Estados Unidos de América profile picture."}
+:::
+
+::: {.column-body-outset layout-ncol="2"}
+![Noël C. Barengo](images/profiles/Noël_barengo.png){.profile-picture
+fig-alt="Noël C. Barengo profile picture."}
+
+Noël Barengo es profesor asociado en la Facultad de Medicina Herbert
+Wertheim de la Universidad Internacional de Florida en Estados Unidos.
+Sus intereses de investigación son la detección, prevención y control de
+la diabetes y el rol de la actividad física en la prevención de las
+enfermedades no transmisibles
 :::
