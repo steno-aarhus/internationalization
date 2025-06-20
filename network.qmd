@@ -10,8 +10,7 @@ investigación en diabetes. Estos son algunos de los miembros de la red:
 
 ::: {.column-body-outset}
 ![Dinamarca](images/profiles/Flag_of_Denmark.png){.profile-picture
-fig-alt="Dinamarca profile picture."}
-:::
+fig-alt="Flag of Denmark."}
 
 ::: {layout-ncol="2"}
 ![Omar Silverman](images/profiles/omar_silverman.png){.profile-picture
@@ -34,7 +33,7 @@ fig-alt="Daniel Witte profile picture."}
 :::
 
 ![México](images/profiles/Flag_of_Mexico.png){.profile-picture
-fig-alt="México profile picture."}
+fig-alt="Flag of México."}
 
 ::: {layout-ncol="2"}
 ![José Luis Flores
@@ -69,7 +68,7 @@ territorial en el sur de México
 :::
 
 ![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
-fig-alt="Colombia profile picture."}
+fig-alt="Flag of Colombia."}
 
 ::: {layout-ncol="2"}
 ![Juan Pablo Pérez
@@ -105,7 +104,7 @@ personalizado
 :::
 
 ![Perú](images/profiles/Flag_of_Peru.png){.profile-picture
-fig-alt="Perú profile picture."}
+fig-alt="Flag of Peru."}
 
 ::: {layout-ncol="2"}
 ![Harold Lizardo Torres
@@ -119,7 +118,7 @@ complicaciones cardio-reno-metabólicas
 :::
 
 ![Argentina](images/profiles/Flag_of_Argentina.png){.profile-picture
-fig-alt="Argentina profile picture."}
+fig-alt="Flag of Argentina."}
 
 ::: {layout-ncol="2"}
 ![Daniela Bensusan
@@ -135,7 +134,7 @@ atención
 
 ![Estados Unidos de
 América](images/profiles/Flag_of_the_United_States.png){.profile-picture
-fig-alt="Estados Unidos de América profile picture."}
+fig-alt="Flag of the United States of America."}
 
 ::: {layout-ncol="2"}
 ![Noël C. Barengo](images/profiles/noël_barengo.png){.profile-picture
