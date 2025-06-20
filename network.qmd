@@ -8,12 +8,12 @@ investigación en diabetes. Estos son algunos de los miembros de la red:
 
 <!-- Images alternate between left and right -->
 
-::: {.column-body-outset layout-ncol="1"}
+::: {.column-body-outset}
 ![Dinamarca](images/profiles/Flag_of_Denmark.png){.profile-picture
 fig-alt="Dinamarca profile picture."}
 :::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![Omar Silverman](images/profiles/omar_silverman.png){.profile-picture
 fig-alt="Omar Silverman profile picture."}
 
@@ -33,12 +33,10 @@ de la investigación en el SDCA
 fig-alt="Daniel Witte profile picture."}
 :::
 
-::: {.column-body-outset layout-ncol="1"}
 ![México](images/profiles/Flag_of_Mexico.png){.profile-picture
 fig-alt="México profile picture."}
-:::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![José Luis Flores
 Guerrero](images/profiles/jose_luis_flores.png){.profile-picture
 fig-alt="José Luis Flores Guerrero profile picture."}
@@ -70,12 +68,10 @@ con diabetes tipo 2 en contextos de alta desigualdad social, étnica y
 territorial en el sur de México
 :::
 
-::: {.column-body-outset layout-ncol="1"}
 ![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
 fig-alt="Colombia profile picture."}
-:::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![Juan Pablo Pérez
 Bedoya](images/profiles/juan_pablo_perez.png){.profile-picture
 fig-alt="Juan Pablo Pérez Bedolla profile picture."}
@@ -108,12 +104,10 @@ desarrollo de protocolos de atención para pacientes con un enfoque
 personalizado
 :::
 
-::: {.column-body-outset layout-ncol="1"}
 ![Perú](images/profiles/Flag_of_Peru.png){.profile-picture
 fig-alt="Perú profile picture."}
-:::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![Harold Lizardo Torres
 Aparcana](images/profiles/lizardo_torres.png){.profile-picture
 fig-alt="Harold Lizardo Torres Aparcana profile picture."}
@@ -124,12 +118,10 @@ investigación sobre prevención de la diabetes tipo 2 y sus
 complicaciones cardio-reno-metabólicas
 :::
 
-::: {.column-body-outset layout-ncol="1"}
 ![Argentina](images/profiles/Flag_of_Argentina.png){.profile-picture
 fig-alt="Argentina profile picture."}
-:::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![Daniela Bensusan
 Martínez](images/profiles/dany_bensusan.png){.profile-picture
 fig-alt="Daniela Bensusan Martínez profile picture."}
@@ -141,13 +133,11 @@ metabólico y de complicaciones de diabetes 2 en el primer nivel de
 atención
 :::
 
-::: {.column-body-outset layout-ncol="1"}
 ![Estados Unidos de
 América](images/profiles/Flag_of_the_United_States.png){.profile-picture
 fig-alt="Estados Unidos de América profile picture."}
-:::
 
-::: {.column-body-outset layout-ncol="2"}
+::: {layout-ncol="2"}
 ![Noël C. Barengo](images/profiles/Noël_barengo.png){.profile-picture
 fig-alt="Noël C. Barengo profile picture."}
 
@@ -156,4 +146,5 @@ Wertheim de la Universidad Internacional de Florida en Estados Unidos.
 Sus intereses de investigación son la detección, prevención y control de
 la diabetes y el rol de la actividad física en la prevención de las
 enfermedades no transmisibles
+:::
 :::
