@@ -8,7 +8,7 @@ investigación en diabetes. Estos son algunos de los miembros de la red:
 
 <!-- Images alternate between left and right -->
 
-::: {.column-body-outset}
+::::::::: column-body-outset
 ![Dinamarca](images/profiles/Flag_of_Denmark.png){.profile-picture
 fig-alt="Bandera de Dinamarca."}
 
@@ -146,4 +146,4 @@ Sus intereses de investigación son la detección, prevención y control de
 la diabetes y el rol de la actividad física en la prevención de las
 enfermedades no transmisibles
 :::
-:::
+:::::::::
