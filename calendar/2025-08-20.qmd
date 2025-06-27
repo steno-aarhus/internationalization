@@ -2,7 +2,7 @@
 title: "Utilizando métodos de co-creación para identificar y priorizar desenlaces en diabetes tipo 1"
 #subtitle: "" 
 # description: "add here a short description of the seminar" 
-author: "Jessica Zafra"
+author: "PhD Jessica Zafra"
 date: "2025-08-20"
 ---
 
