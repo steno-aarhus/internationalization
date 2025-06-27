@@ -13,34 +13,33 @@ investigación en diabetes. Estos son algunos de los miembros de la red:
 fig-alt="Bandera de Dinamarca."}
 
 ::: {layout-ncol="2"}
-![Annelli
-Sandbaek](images/profiles/annelli_sandbaek.png){.profile-picture
-fig-alt="Annelli Sandbaek profile picture."}
-
-Annelli Sandbaek es profesora de medicina general en la Universidad de
-Aarhus. Es Jefa de la Unidad de Colaboración Intersectorial y Atención
-Integrada de pacientes en el Steno Diabetes Center Aarhus. Le interesa
-investigar cómo los sistemas de salud pueden brindar una mejor atencion
-a las personas que viven con enfermedades crónicas. Annelli es co-lider
-del proyecto de internacionalización de la investigación en el SDCA
-
-Daniel Witte es profesor de Epidemiología de la diabetes en la
-Universidad de Aarhus y en el SDCA, Dinamarca. Le interesa la
-investigación en prevención y predicción de diabetes, así como de sus
-complicaciones. Daniel es co-lider del proyecto de internacionalización
-de la investigación en el SDCA
-
-![Daniel Witte](images/profiles/daniel_witte.png){.profile-picture
-fig-alt="Daniel Witte profile picture."}
-
 ![Omar Silverman](images/profiles/omar_silverman.png){.profile-picture
 fig-alt="Omar Silverman profile picture."}
 
 Omar Silverman es postdoc en el Steno Diabetes Center Aarhus (SDCA) y la
-Universidad de Aarhus en Dinamarca. Le interesa la investigación en
+Universidad de Aarhus (AU) en Dinamarca. Le interesa la investigación en
 epidemiología de la diabetes con un énfasis en relaciones familiares. Es
 co-lider del proyecto de internacionalización de la investigación en el
 SDCA
+
+Daniel Witte es profesor de Epidemiología de la diabetes en AU y en el
+SDCA, Dinamarca. Le interesa la investigación en prevención y predicción
+de diabetes, así como de sus complicaciones. Daniel es co-lider del
+proyecto de internacionalización de la investigación en el SDCA
+
+![Daniel Witte](images/profiles/daniel_witte.png){.profile-picture
+fig-alt="Daniel Witte profile picture."}
+
+![Annelli
+Sandbaek](images/profiles/annelli_sandbaek.png){.profile-picture
+fig-alt="Annelli Sandbaek profile picture."}
+
+Annelli Sandbaek es profesora de medicina general en AU. Es Jefa de la
+Unidad de Colaboración Intersectorial y Atención Integrada de pacientes
+en el SDCA. Le interesa investigar cómo los sistemas de salud pueden
+brindar una mejor atencion a las personas que viven con enfermedades
+crónicas. Annelli es co-lider del proyecto de internacionalización de la
+investigación en el SDCA
 :::
 
 ![México](images/profiles/Flag_of_Mexico.png){.profile-picture
