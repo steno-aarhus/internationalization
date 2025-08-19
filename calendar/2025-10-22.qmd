@@ -1,7 +1,7 @@
 ---
-title: "Tienen sentido las definiciones de remisión de diabetes? Un análisis en 150,000 pacientes - Implicaciones para la práctica"  
-subtitle: "Does diabetes remission definitions make sense? An analysis of 150,000 patients- Implications for practice"
-author: "Victor Villalobos"
+title: "Puede América Latina implementar un programa de remisión de diabetes a nivel regional?"  
+subtitle: "Can Latin America implement a diabetes remission programme at a regional level?"
+author: "Dr. Victor Villalobos"
 date: "2025-10-22"
 ---
 
