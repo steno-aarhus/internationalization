@@ -1,6 +1,6 @@
 ---
-title: "Utilizando métodos de co-creación para identificar y priorizar desenlaces en diabetes tipo 1"
-#subtitle: "" 
+title: "Co-creación en investigación en diabetes: algunos ejemplos de Perú"
+#subtitle: "Co-creation in diabetes research: examples from Peru" 
 # description: "add here a short description of the seminar" 
 author: "PhD Jessica Zafra"
 date: "2025-08-27"
