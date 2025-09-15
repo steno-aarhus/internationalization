@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d78de413ccbe293bbb1fb27e26b409cd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-222939cd08ec5c4967295bf7a116a78f.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-c57d78a7f609c4b75cca7393e4700d96.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-222939cd08ec5c4967295bf7a116a78f.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2af8bd97d80c3c4720e94683ec427e73.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3383913a1c4369ac5cbde1a2a073f7ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3383913a1c4369ac5cbde1a2a073f7ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3383913a1c4369ac5cbde1a2a073f7ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -111,7 +116,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -136,6 +141,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Proyecto de internacionalización</span>
     </a>
@@ -202,7 +209,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1737504000000" data-listing-file-modified-sort="1757665711582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1737504000000" data-listing-file-modified-sort="1757939155808" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-01-22.html" class="no-external">Utilidad de las nuevas clasificaciones de Diabetes</a>
@@ -222,7 +229,7 @@ Dr.&nbsp;Gabriel Matta
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1740528000000" data-listing-file-modified-sort="1757665711589" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1740528000000" data-listing-file-modified-sort="1757939155815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-02-26.html" class="no-external">Efectividad de la telemedicina en la prevención de diabetes tipo 2</a>
@@ -242,7 +249,7 @@ Dr.&nbsp;Harold Lizardo Torres Aparcana
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1742342400000" data-listing-file-modified-sort="1757665711610" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1742342400000" data-listing-file-modified-sort="1757939155836" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-03-19.html" class="no-external">Presentaciones cortas de los miembros de la red</a>
@@ -262,7 +269,7 @@ Miembros de la red
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1745366400000" data-listing-file-modified-sort="1757665711624" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1745366400000" data-listing-file-modified-sort="1757939155851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-04-23.html" class="no-external">Determinantes sociales de la salud y prevención de la diabetes</a>
@@ -282,7 +289,7 @@ Dr.&nbsp;Noël C. Barengo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1747785600000" data-listing-file-modified-sort="1757665711633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1747785600000" data-listing-file-modified-sort="1757939155860" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-05-21.html" class="no-external">Carga de las enfermedades metabólicas: perspectivas desde América Latina</a>
@@ -302,7 +309,7 @@ Dr.&nbsp;Carlos Toro Huamanchumo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1750204800000" data-listing-file-modified-sort="1757665711648" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1750204800000" data-listing-file-modified-sort="1757939155874" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-06-18.html" class="no-external">Comprendiendo la complejidad en la Salud Pública con inteligencia artificial y registros poblacionales</a>
@@ -322,7 +329,7 @@ Profesor asistente Adrian G. Zucco
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1756252800000" data-listing-file-modified-sort="1757665711649" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1756252800000" data-listing-file-modified-sort="1757939155876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-08-27.html" class="no-external">Co-creación en investigación en diabetes: algunos ejemplos de Perú</a>
@@ -342,7 +349,7 @@ PhD Jessica Zafra
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1758672000000" data-listing-file-modified-sort="1757665711650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1758672000000" data-listing-file-modified-sort="1757939155876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-09-24.html" class="no-external">Puntajes z- IMC y debut de diabetes tipo 1 en niños</a>
@@ -362,7 +369,7 @@ Dra. Valeria Hirschler
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1761091200000" data-listing-file-modified-sort="1757665711650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1761091200000" data-listing-file-modified-sort="1757939155877" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-10-22.html" class="no-external">Puede América Latina implementar un programa de remisión de diabetes a nivel regional?</a>
@@ -382,7 +389,7 @@ Dr.&nbsp;Victor Villalobos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1763510400000" data-listing-file-modified-sort="1757665711651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1763510400000" data-listing-file-modified-sort="1757939155878" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-11-19.html" class="no-external">Aspectos emocionales en pacientes con diabetes mellitus</a>
@@ -402,7 +409,7 @@ Adriana Alvarez
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1765929600000" data-listing-file-modified-sort="1757665711651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1765929600000" data-listing-file-modified-sort="1757939155878" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./calendar/2025-12-17.html" class="no-external">TBA</a>
@@ -476,13 +483,14 @@ TBC
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
