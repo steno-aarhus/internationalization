@@ -1,7 +1,7 @@
 ---
-title: "Aspectos emocionales en pacientes con diabetes mellitus"
-subtitle: "Emotional aspects in patients with diabetes mellitus"
-author: "Dra. Adriana Alvarez"
+title: "DP Next:Prevención sostenible de la diabetes tipo 2 para el siglo XXI & Registros de DT1: ¿Cómo podemos implementarlos en Latinoamérica?"
+subtitle: "DP Next: Sustainable diabetes prevention in the XXI century & T1D registers: How can we implement them in Latin America?"
+author: "Prof. Daniel Witte y Ass. Prof Omar Silverman "
 date: "2025-11-19"
 ---
 
