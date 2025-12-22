@@ -8,7 +8,7 @@
 
 <meta name="description" content="En este sitio puedes encontrar las presentaciones en formato pdf y la liga a la grabación en nuestro canal de YouTube">
 
-<title>Seminarios 2024 – Proyecto de internacionalización</title>
+<title>Seminarios – Proyecto de internacionalización</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-s2024 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -89,7 +89,63 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-s2024'] = new List('listing-s2024', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-s2025 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-s2025'] = new List('listing-s2025', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-s2026 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-s2026'] = new List('listing-s2026', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -154,11 +210,11 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./calendar.html"> 
-<span class="menu-text">Calendario seminarios 2025</span></a>
+<span class="menu-text">Calendario</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./seminars.html" aria-current="page"> 
-<span class="menu-text">Seminarios 2024</span></a>
+<span class="menu-text">Seminarios</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./network.html"> 
@@ -184,7 +240,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Seminarios 2024</h1>
+<h1 class="title">Seminarios</h1>
 </div>
 
 <div>
@@ -206,13 +262,13 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">2024</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">2025</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">2026</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div id="listing-s2024" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1733875200000" data-listing-file-modified-sort="1765382912505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1733875200000" data-listing-file-modified-sort="1766423846722" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-12-11.html" class="no-external">Incidencia de diabetes tipo 1 y su relación con la carga genética</a>
@@ -232,7 +288,7 @@ Dr.&nbsp;Segundo Seclen Santisteban
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1732060800000" data-listing-file-modified-sort="1765382912498" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1732060800000" data-listing-file-modified-sort="1766423846714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-11-20.html" class="no-external">Estudios de cohorte digitales</a>
@@ -252,7 +308,7 @@ Dra. Gloria Aguayo y Omar Silverman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1729641600000" data-listing-file-modified-sort="1765382912469" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1729641600000" data-listing-file-modified-sort="1766423846685" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-10-23.html" class="no-external">Utilidad de la glicemia 1h-post carga en la caracterización de sujetos con Prediabetes</a>
@@ -272,7 +328,7 @@ Dr.&nbsp;Juan Carlos Lizarzaburu Robles
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1726617600000" data-listing-file-modified-sort="1765382912455" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1726617600000" data-listing-file-modified-sort="1766423846671" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-09-18.html" class="no-external">Presentaciones cortas de los miembros de la red</a>
@@ -292,7 +348,7 @@ Miembros de la red
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1723593600000" data-listing-file-modified-sort="1765382912423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1723593600000" data-listing-file-modified-sort="1766423846638" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-08-14.html" class="no-external">Epidemiología de las complicaciones y mortalidad por diabetes mellitus tipo 2: datos de Latino-América</a>
@@ -312,7 +368,7 @@ Dr.&nbsp;Antonio Bernabe-Ortiz
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1719360000000" data-listing-file-modified-sort="1765382912419" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1719360000000" data-listing-file-modified-sort="1766423846634" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-06-26.html" class="no-external">Diabetes tipo 2 de inicio temprano en México</a>
@@ -332,7 +388,7 @@ Dr.&nbsp;Carlos A. Aguilar Salinas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1716336000000" data-listing-file-modified-sort="1765382912410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1716336000000" data-listing-file-modified-sort="1766423846625" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-05-22.html" class="no-external">Epidemiología de diabetes tipo 1/ Registro nacional de pacientes con diabetes tipo 1- RENACED-DT1</a>
@@ -352,7 +408,7 @@ Dra. Paula Diaz y Dra. Raquel Faradji
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1712707200000" data-listing-file-modified-sort="1765382912384" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1712707200000" data-listing-file-modified-sort="1766423846598" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-04-10.html" class="no-external">Guías de Práctica Clínica en Diabetes</a>
@@ -372,7 +428,7 @@ Dr.&nbsp;Daniel Croatto
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1709683200000" data-listing-file-modified-sort="1765382912375" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1709683200000" data-listing-file-modified-sort="1766423846589" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-03-06.html" class="no-external">Prediabetes</a>
@@ -392,7 +448,7 @@ Daniel Witte
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1707264000000" data-listing-file-modified-sort="1765382912347" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1707264000000" data-listing-file-modified-sort="1766423846561" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./seminars/2024-02-07.html" class="no-external">Carga global de diabetes tipo 2. Prevalencia, incidencia y mortalidad</a>
@@ -414,7 +470,289 @@ Daniel Witte, Omar Silverman
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div id="listing-s2025" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1765929600000" data-listing-file-modified-sort="1766423846876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-12-17.html" class="no-external">Integración de información a través de la vinculación probabilística y construcción de cohortes administrativas</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-12-17.html" class="no-external">
+Publicidad/advertisement
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-12-17.html" class="no-external">
+<div class="listing-date">
+Dec 17, 2025
+</div>
+<div class="listing-author">
+Dra. Lina Sofía Palacio Mejía
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1763510400000" data-listing-file-modified-sort="1766423846875" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-11-19.html" class="no-external">DP Next: Prevención sostenible de la diabetes tipo 2 para el siglo XXI &amp; Registros de DT1: ¿Cómo podemos implementarlos en Latinoamérica?</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-11-19.html" class="no-external">
+Publicidad/advertisement
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-11-19.html" class="no-external">
+<div class="listing-date">
+Nov 19, 2025
+</div>
+<div class="listing-author">
+Prof.&nbsp;Daniel Witte y Omar Silverman
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1761091200000" data-listing-file-modified-sort="1766423846826" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-10-22.html" class="no-external">Puede América Latina implementar un programa de remisión de diabetes a nivel regional?</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-10-22.html" class="no-external">
+Publicidad/advertisement
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-10-22.html" class="no-external">
+<div class="listing-date">
+Oct 22, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Victor Villalobos
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1758672000000" data-listing-file-modified-sort="1766423846818" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-09-24.html" class="no-external">Puntajes z- IMC y debut de diabetes tipo 1 en niños</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-09-24.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-09-24.html" class="no-external">
+<div class="listing-date">
+Sep 24, 2025
+</div>
+<div class="listing-author">
+Dra. Valeria Hirschler
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1756252800000" data-listing-file-modified-sort="1766423846803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-08-27.html" class="no-external">Co-creación en investigación en diabetes: algunos ejemplos de Perú</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-08-27.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-08-27.html" class="no-external">
+<div class="listing-date">
+Aug 27, 2025
+</div>
+<div class="listing-author">
+PhD Jessica Zafra
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1750204800000" data-listing-file-modified-sort="1766423846795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-06-18.html" class="no-external">Comprendiendo la complejidad en la Salud Pública con inteligencia artificial y registros poblacionales</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-06-18.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-06-18.html" class="no-external">
+<div class="listing-date">
+Jun 18, 2025
+</div>
+<div class="listing-author">
+Profesor asistente Adrian G. Zucco
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1747785600000" data-listing-file-modified-sort="1766423846780" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-05-21.html" class="no-external">Carga de las enfermedades metabólicas: perspectivas desde América Latina</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-05-21.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-05-21.html" class="no-external">
+<div class="listing-date">
+May 21, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Carlos Toro Huamanchumo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1745366400000" data-listing-file-modified-sort="1766423846772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-04-23.html" class="no-external">Determinantes sociales de la salud y prevención de la diabetes</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-04-23.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-04-23.html" class="no-external">
+<div class="listing-date">
+Apr 23, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Noël C. Barengo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1742342400000" data-listing-file-modified-sort="1766423846757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-03-19.html" class="no-external">Presentaciones cortas de los miembros de la red</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-03-19.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-03-19.html" class="no-external">
+<div class="listing-date">
+Mar 19, 2025
+</div>
+<div class="listing-author">
+Miembros de la red
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1740528000000" data-listing-file-modified-sort="1766423846736" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-02-26.html" class="no-external">Efectividad de la telemedicina en la prevención de diabetes tipo 2</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-02-26.html" class="no-external">
+Presentación/slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-02-26.html" class="no-external">
+<div class="listing-date">
+Feb 26, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Harold Lizardo Torres Aparcana
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1737504000000" data-listing-file-modified-sort="1766423846729" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2025-01-22.html" class="no-external">Utilidad de las nuevas clasificaciones de Diabetes</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2025-01-22.html" class="no-external">
+Presentación/ slides
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2025-01-22.html" class="no-external">
+<div class="listing-date">
+Jan 22, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Gabriel Matta
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<div id="listing-s2026" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773792000000" data-listing-file-modified-sort="1766423846877" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2026-03-18.html" class="no-external">Cómo es la atención a las personas con DM2 en el sistema de salud público de América Latina? Resultados de una encuesta realizada a personal de salud</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2026-03-18.html" class="no-external">
+Publicidad/advertisement
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2026-03-18.html" class="no-external">
+<div class="listing-date">
+Mar 18, 2026
+</div>
+<div class="listing-author">
+Dr.&nbsp;Chih Hao Chen Ku
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1768953600000" data-listing-file-modified-sort="1766423846876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/2026-01-21.html" class="no-external">Sistema de apoyo a la toma de decisiones mejorado por gemelos digitales en diabetes tipo 1 con terapia MDI</a>
+</h3>
+<div class="delink listing-description"><a href="./seminars/2026-01-21.html" class="no-external">
+Publicidad/advertisement
+</a></div>
+</div>
+<div class="metadata">
+<a href="./seminars/2026-01-21.html" class="no-external">
+<div class="listing-date">
+Jan 21, 2026
+</div>
+<div class="listing-author">
+Dr.&nbsp;José García-Tirado
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
