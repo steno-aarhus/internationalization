@@ -1,15 +1,55 @@
 ---
-title: "Seminarios 2024"
+title: "Seminarios"
 description: "En este sitio puedes encontrar las presentaciones en formato pdf y la liga a la grabación en nuestro canal de YouTube"
 listing:
-  contents: seminars
-  type: default
-  sort: "date desc"
-  sort-ui: false
-  filter-ui: false
-  fields: 
-    - date
-    - title
-    - description
-    - author
+  - id: s2024
+    contents: "seminars/2024-*.qmd"
+    type: default
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: 
+      - date
+      - title
+      - description
+      - author
+  - id: s2025
+    contents: "seminars/2025-*.qmd"
+    type: default
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: 
+      - date
+      - title
+      - description
+      - author
+  - id: s2026
+    contents: "seminars/2026-*.qmd"
+    type: default
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: 
+      - date
+      - title
+      - description
+      - author
 ---
+
+:::::: panel-tabset
+## 2024
+
+::: {#s2024}
+:::
+
+## 2025
+
+::: {#s2025}
+:::
+
+## 2026
+
+::: {#s2026}
+:::
+::::::

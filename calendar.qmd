@@ -1,8 +1,8 @@
 ---
-title: "Calendario seminarios 2025"
+title: "Calendario"
 #description: ""
 listing:
-  contents: calendar
+  contents: "seminars/2026-*.qmd"
   type: default
   sort: "date asc"
   sort-ui: false
