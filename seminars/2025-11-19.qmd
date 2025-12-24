@@ -5,7 +5,7 @@ author: "Prof. Daniel Witte y Omar Silverman"
 date: "2025-11-19"
 ---
 
-[Publicidad/advertisement](2025-11-19.pdf)
+[Presentación/slides](2025-11-19.pdf)
 
 [Accede a la grabación/access the recording
 here](https://youtu.be/hJ2rGJgEpc8)
