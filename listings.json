@@ -23,7 +23,11 @@
       "/seminars/2025-03-19.html",
       "/seminars/2025-02-26.html",
       "/seminars/2025-01-22.html",
+      "/seminars/2026-06-17.html",
+      "/seminars/2026-05-20.html",
+      "/seminars/2026-04-22.html",
       "/seminars/2026-03-18.html",
+      "/seminars/2026-02-18.html",
       "/seminars/2026-01-21.html"
     ]
   },
@@ -31,7 +35,11 @@
     "listing": "/calendar.html",
     "items": [
       "/seminars/2026-01-21.html",
-      "/seminars/2026-03-18.html"
+      "/seminars/2026-02-18.html",
+      "/seminars/2026-03-18.html",
+      "/seminars/2026-04-22.html",
+      "/seminars/2026-05-20.html",
+      "/seminars/2026-06-17.html"
     ]
   }
 ]
