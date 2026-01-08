@@ -1,11 +1,11 @@
 ---
-title: "TBA"
-#subtitle: ""
+title: "Recomendaciones para escribir y publicar un artículo científico"
+#subtitle: "Recommendation for writing and publishing a scientific paper"
 author: "Dr. Orison Woolcott"
 date: "2026-02-18"
 ---
 
-[Publicidad/advertisement]()
+[Publicidad/advertisement](2026-02-18.pdf)
 
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/4UrnKtvkT8Gp52mvnNgVRA)
