@@ -1,10 +1,11 @@
 ---
-title: "TBA"
+title: "Genómica médica poblacional en América Latina: El Proyecto Biobanco Mexicano"
+subtitle: "Population medical genomics in Latin America: The Mexican Biobank Project"
 author: "Dr. Andrés Moreno Estrada"
 date: "2026-06-17"
 ---
 
-[Publicidad/advertisement]()
+[Publicidad/advertisement](2026-06-17.pdf)
 
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/vlZepfyzQqqRvftFtAGGwg)

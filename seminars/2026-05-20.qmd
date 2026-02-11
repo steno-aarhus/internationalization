@@ -1,10 +1,11 @@
 ---
-title: "TBA"
-author: "TBC"
+title: "Carga de la diabetes mellitus tipo 2 atribuible a contaminación por material particulado en Brasil"
+subtitle: "The Burden of Type 2 Diabetes Mellitus Attributable to Particulate Matter Pollution in Brazil"
+author: "Dr. Rita Matiello"
 date: "2026-05-20"
 ---
 
-[Publicidad/advertisement]()
+[Publicidad/advertisement](2026-05-20.pdf)
 
 [Registrate aquí/register
 here](https://aarhusuniversity.zoom.us/meeting/register/6gJSBRCGS0Ko3p7tSpPkhAx)
