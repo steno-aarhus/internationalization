@@ -5,7 +5,6 @@ author: "Dr. José García-Tirado"
 date: "2026-01-21"
 ---
 
-[Publicidad/advertisement](2026-01-21.pdf)
+[Presentación/slides](2026-01-21.pdf)
 
-[Registrate aquí/register
-here](https://aarhusuniversity.zoom.us/meeting/register/AY8Io-YNRcmYkqmyygUuLQ)
+[Accede a la grabación/access the recording here]()
