@@ -7,4 +7,5 @@ date: "2026-01-21"
 
 [Presentación/slides](2026-01-21.pdf)
 
-[Accede a la grabación/access the recording here]()
+[Accede a la grabación/access the recording
+here](https://youtu.be/LwxjLRAV820)
