@@ -16,13 +16,13 @@ fig-alt="Bandera de Dinamarca."}
 ![Omar Silverman](images/profiles/omar_silverman.png){.profile-picture
 fig-alt="Omar Silverman profile picture."}
 
-Omar Silverman es postdoc en el Steno Diabetes Center Aarhus (SDCA) y la
-Universidad de Aarhus (AU) en Dinamarca. Le interesa la investigación en
-epidemiología de la diabetes con un énfasis en relaciones familiares. Es
+Omar Silverman es Profesor Adjunto en la Universidad de Aarhus (AU) e
+investigador en el Steno Diabetes Center Aarhus (SDCA) en Dinamarca. Le
+interesa la epidemiología y demografía global de la diabetes. Es
 co-lider del proyecto de internacionalización de la investigación en el
-SDCA
+SDCA.
 
-Daniel Witte es profesor de Epidemiología de la diabetes en AU y en el
+Daniel Witte es Profesor de Epidemiología de la diabetes en AU y en el
 SDCA, Dinamarca. Le interesa la investigación en prevención y predicción
 de diabetes, así como de sus complicaciones. Daniel es co-lider del
 proyecto de internacionalización de la investigación en el SDCA
@@ -34,7 +34,7 @@ fig-alt="Daniel Witte profile picture."}
 Sandbaek](images/profiles/annelli_sandbaek.png){.profile-picture
 fig-alt="Annelli Sandbaek profile picture."}
 
-Annelli Sandbaek es profesora de medicina general en AU. Es Jefa de la
+Annelli Sandbaek es Profesora de Medicina General en AU. Es Jefa de la
 Unidad de Colaboración Intersectorial y Atención Integrada de pacientes
 en el SDCA. Le interesa investigar cómo los sistemas de salud pueden
 brindar una mejor atencion a las personas que viven con enfermedades
@@ -50,13 +50,13 @@ fig-alt="Bandera de México."}
 Guerrero](images/profiles/jose_luis_flores.png){.profile-picture
 fig-alt="José Luis Flores Guerrero profile picture."}
 
-José Luis Flores es investigador en la Benemérita Universidad Autónoma
+José Luis Flores es Investigador en la Benemérita Universidad Autónoma
 de Puebla, Puebla, Mexico. Sus intereses se centran en la investigación
 interdisciplinaria sobre diabetes y enfermedades cardiometabólicas,
 integrando epidemiología y ciencia de datos, en particular el uso de R
 con fines de reproducibilidad
 
-María Zavala es coordinadora de investigación en ciencias de la salud en
+María Zavala es Coordinadora de Investigación en Ciencias de la Salud en
 la Universidad Autónoma de Guadalajara, Ciencias de la Salud,
 Guadalajara, Jalisco, México. Su investigación se centra en la
 afectación del sistema inmune en enfermedades crónico degenerativas,
@@ -70,11 +70,11 @@ fig-alt="María G. Zavala Cerna profile picture."}
 Vidal](images/profiles/cecilia_acero.png){.profile-picture
 fig-alt="Cecilia Acero profile picture."}
 
-Cecilia Acero es postdoc en el Centro de Investigaciones y Estudios
-Superiores en Antropología Social (CIESAS) Sede Sureste (Chiapas). Su
-investigación está centrada en las experiencias de personas que viven
-con diabetes tipo 2 en contextos de alta desigualdad social, étnica y
-territorial en el sur de México
+Cecilia Acero es Investigadora Postdoctoral en el Centro de
+Investigaciones y Estudios Superiores en Antropología Social (CIESAS)
+Sede Sureste (Chiapas). Su investigación está centrada en las
+experiencias de personas que viven con diabetes tipo 2 en contextos de
+alta desigualdad social, étnica y territorial en el sur de México
 :::
 
 ![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
@@ -91,7 +91,7 @@ Crónicas. Su labor investigativa se centra en la epidemiología de la
 diabetes, el monitoreo y la prevención de enfermedades crónicas, la
 planificación y educación para la salud.
 
-Juan Pablo Pérez es estudiante de doctorado en epidemiología en la
+Juan Pablo Pérez es Estudiante de Doctorado en epidemiología en la
 Universidad de Antioquia, Medellín, Colombia. Le interesa la
 investigación relacionada con el perfil epidemiológico y los
 determinantes exposómicos en diabetes tipo 1.
@@ -104,14 +104,14 @@ fig-alt="Juan Pablo Pérez Bedolla profile picture."}
 Herrera](images/profiles/gabriel_matta.png){.profile-picture
 fig-alt="Gabriel J. Matta Herrera profile picture."}
 
-Gabriel Matta es médico internista con maestría en diabetes y obesidad.
+Gabriel Matta es Médico Internista con maestría en diabetes y obesidad.
 Es investigador independiente interesado en epidemiología. Actualmente
 trabaja con una cohorte de pacientes en Antioquia (Colombia) en la cuál
 le interesa describir las características sociodemográficas de los
 participantes, el pérfil de riesgo cardiovascular y su adherencia a
 guías clínicas
 
-Brenda Villalobos es médico internista y cardiologa intensivista. Es
+Brenda Villalobos es Médico Internista y Cardiologa Intensivista. Es
 investigadora independiente interesada en realizar investigación
 clínica. Uno de sus principales intereses es el manejo integral de la
 prediabetes y su estrecha relación con la obesidad, así como el
@@ -131,7 +131,7 @@ fig-alt="Bandera de Perú."}
 Aparcana](images/profiles/lizardo_torres.png){.profile-picture
 fig-alt="Harold Lizardo Torres Aparcana profile picture."}
 
-Lizardo Torres es médico endocrinólogo en la Clínica San Felipe, Lima,
+Lizardo Torres es Médico Endocrinólogo en la Clínica San Felipe, Lima,
 Perú. Tiene una maestría en epidemiología y está interesado en la
 investigación sobre prevención de la diabetes tipo 2 y sus
 complicaciones cardio-reno-metabólicas
@@ -145,11 +145,23 @@ fig-alt="Bandera de Argentina."}
 Martínez](images/profiles/dany_bensusan.png){.profile-picture
 fig-alt="Daniela Bensusan Martínez profile picture."}
 
-Daniela Bensusan es médica general e investigadora independiente. Sus
-intereses de investigación se relacionan con la estrimación de la carga
+Daniela Bensusan es Médica General e Investigadora Independiente. Sus
+intereses de investigación se relacionan con la estimación de la carga
 de diabetes en la comunidad, retinopatía diabética, así como el manejo
 metabólico y de complicaciones de diabetes 2 en el primer nivel de
 atención
+
+Paula V. Gómez es Médica con una maestría en diabetes y
+especializaciones en nutrición y medicina familiar. Actualmente integra
+el área de investigación del Ministerio de Salud de la Pampa y coordina
+la Unidad de Práctica Integrada en Diabetes (UPID) del hospital Evita,
+en la provincia de La Pampa, Argentina. También coordina el Aula virtual
+del Ministerio de Salud de la provincia y es representante ante el
+consejo consultivo de la Facultad de Ciencias de la Salud de la
+Universidad Nacional de la Pampa
+
+![Paula V. Gómez](images/profiles/paula_gomez.png){.profile-picture
+fig-alt="Paula V. Gómez profile picture."}
 :::
 
 ![Estados Unidos de
@@ -160,7 +172,7 @@ fig-alt="Bandera de Estados Unidos de América."}
 ![Noël C. Barengo](images/profiles/noël_barengo.png){.profile-picture
 fig-alt="Noël C. Barengo profile picture."}
 
-Noël Barengo es profesor asociado en la Facultad de Medicina Herbert
+Noël Barengo es Profesor Asociado en la Facultad de Medicina Herbert
 Wertheim de la Universidad Internacional de Florida en Estados Unidos.
 Sus intereses de investigación son la detección, prevención y control de
 la diabetes y el rol de la actividad física en la prevención de las
