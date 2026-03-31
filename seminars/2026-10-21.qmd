@@ -1,7 +1,0 @@
----
-title: "TBC"
-#subtitle: ""
-author: "TBA"
-date: "2026-10-21"
----
-
