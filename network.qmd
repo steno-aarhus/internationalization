@@ -75,6 +75,14 @@ Investigaciones y Estudios Superiores en Antropología Social (CIESAS)
 Sede Sureste (Chiapas). Su investigación está centrada en las
 experiencias de personas que viven con diabetes tipo 2 en contextos de
 alta desigualdad social, étnica y territorial en el sur de México
+
+Víctor Villalobos es investigador en Enfermedades Crónicas y sus
+factores de riesgo nutricionales en el Instituto Nacional de Salud
+Pública. Le interesa aplicar ciencias de la salud, sociales y del diseño
+para la identificación de factores que mejoren el control y promuevan la
+remisión de la diabetes. Víctor es fundador de diabetesremission.org
+
+![Victor E. Villalobos Daniel](images/profiles/victor_villalobos.png)
 :::
 
 ![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
