@@ -82,7 +82,9 @@ Pública. Le interesa aplicar ciencias de la salud, sociales y del diseño
 para la identificación de factores que mejoren el control y promuevan la
 remisión de la diabetes. Víctor es fundador de diabetesremission.org
 
-![Victor E. Villalobos Daniel](images/profiles/victor_villalobos.png)
+![Victor E. Villalobos
+Daniel](images/profiles/victor_villalobos.png){.profile-picture
+fig-alt="Victor Villalobos profile picture."}
 :::
 
 ![Colombia](images/profiles/Flag_of_Colombia.png){.profile-picture
