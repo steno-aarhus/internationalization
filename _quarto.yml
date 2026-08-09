@@ -2,11 +2,15 @@ project:
   type: sdca-theme
 
 website:
-  title: "Proyecto de internacionalización"
+  title: "SDCA-LATAM"
   site-url: "https://steno-aarhus.github.io/internationalization/"
   repo-url: "https://github.com/steno-aarhus/internationalization"
   navbar:
+   # logo: images/SDCA-LATAM_logo.png
+    pinned: true
     left: 
+      - href: index.qmd
+      - href: overview.qmd
       - href: calendar.qmd
       - href: seminars.qmd
       - href: network.qmd
