@@ -1,9 +1,11 @@
 ---
 title: "Seminarios"
-description: "En este sitio puedes encontrar las presentaciones en formato pdf y la liga a la grabación en nuestro canal de YouTube"
+description: "En esta pestaña puedes consultar el calendario con las fechas de 
+los próximos seminarios, las presentaciones en formato pdf y la liga a la 
+grabación en nuestro canal de YouTube."
 listing:
-  - id: s2024
-    contents: "seminars/2024-*.qmd"
+  - id: s2026
+    contents: "seminars/2026-*.qmd"
     type: default
     sort: "date desc"
     sort-ui: false
@@ -24,8 +26,8 @@ listing:
       - title
       - description
       - author
-  - id: s2026
-    contents: "seminars/2026-*.qmd"
+  - id: s2024
+    contents: "seminars/2024-*.qmd"
     type: default
     sort: "date desc"
     sort-ui: false
@@ -38,9 +40,9 @@ listing:
 ---
 
 :::::: panel-tabset
-## 2024
+## 2026
 
-::: {#s2024}
+::: {#s2026}
 :::
 
 ## 2025
@@ -48,8 +50,8 @@ listing:
 ::: {#s2025}
 :::
 
-## 2026
+## 2024
 
-::: {#s2026}
+::: {#s2024}
 :::
 ::::::
