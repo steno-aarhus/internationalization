@@ -1,16 +1,24 @@
 ---
-#title: "Bienvenidos(as) a la red SDCA-LATAM"
+title: "Inicio"
 ---
 
-::: {layout-ncol="2"}
-Este proyecto tiene el objetivo de crear y expandir redes de
-colaboración entre investigadores del Centro Steno Aarhus de Diabetes
-(SDCA) con investigadores(as) de instituciones en la región de América
-Latina. Mediante una estrategia bottom-up, el proyecto de
-internacionalización promueve el intercambio de conocimiento mediante
-actividades educativas y de investigación que puedan contribuir al
-avance en la agenda de investigación en diabetes en la región de América
-Latina.
+::: {layout-ncol="1"}
+![](images/SDCA-LATAM_logo.png)
 
-![](images/internationalization_map.png)
+## De qué se trata este proyecto?
+
+El Centro Steno Aarhus de Diabetes (SDCA) conduce un proyecto sobre
+internacionalización de la investigación en diabetes con el objetivo de
+crear y expandir redes de colaboración entre investigadores(as) del SDCA
+e investigadores(as) de instituciones en la región de América Latina.
+
+Desde Febrero de 2024, el proyecto se ha implementado mediante una
+estrategia bottom-up que promueve el intercambio de conocimiento a
+partir de actividades educativas y de investigación que contribuyen al
+avance bilateral en la agenda de investigación en diabetes.
+
+El fin último de este proyecto es llevar la visión del SDCA más allá de
+las fronteras *"Trabajamos para asegurarnos de que las personas que
+viven con diabetes o están en riesgo de desarrollarla, puedan vivir una
+buena vida"*
 :::
