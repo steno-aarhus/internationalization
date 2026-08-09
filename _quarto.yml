@@ -11,7 +11,6 @@ website:
     left: 
       - href: index.qmd
       - href: overview.qmd
-      - href: calendar.qmd
       - href: seminars.qmd
       - href: network.qmd
 
