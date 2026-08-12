@@ -1,6 +1,6 @@
 ---
 title: "Retinopatía diabética: lo que el médico general necesita saber. Datos de la vida real"
-subtitle: "Diabetic retinopathy: what general practinioners should know. Real world data."
+subtitle: "Diabetic retinopathy: what general practitioners should know. Real world data."
 author: "Dra. Rosane Kupfer"
 date: "2026-08-19"
 ---
