@@ -5,7 +5,5 @@ author: "Dr. Andrés Moreno Estrada"
 date: "2026-06-17"
 ---
 
-[Presentación/slides]()
-
 [Accede a la grabación/access the recording
 here](https://youtu.be/-MX86WgcxGk)
