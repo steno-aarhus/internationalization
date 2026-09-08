@@ -12,7 +12,9 @@ website:
       - href: index.qmd
       - href: overview.qmd
       - href: seminars.qmd
+      - href: resources.qmd
       - href: network.qmd
+      
 
 format: sdca-theme-html
 

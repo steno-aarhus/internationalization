@@ -1,0 +1,11 @@
+---
+title: "Más recursos"
+---
+
+En está página puedes acceder al material de los cursos que hemos
+impartido.
+
+[Taller introductorio de mediación
+causal](https://sdca-latam.github.io/mediation-course/)
+
+<!-- Daniel insert here the link to the courses-->
