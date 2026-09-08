@@ -1,6 +1,6 @@
 ---
 title: "Seminarios"
-description: "En esta pestaña puedes consultar el calendario con las fechas de 
+description: "En esta pestaña puedes consultar el calendario con las fechas de  
 los próximos seminarios, las presentaciones en formato pdf y la liga a la 
 grabación en nuestro canal de YouTube."
 listing:
