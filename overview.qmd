@@ -36,10 +36,8 @@ seminarios.
 Conforme la red comenzó a tomar forma, las ideas comenzaron a surgir y
 las oportunidades de colaboración a presentarse. Es por eso que en esta
 fase del proyecto nos enfocamos en sentar las bases de estas
-colaboraciones.
-
-Enmarcamos nuestras actividades académicas y de investigación bajo la
-perspectiva de ciencia abierta y reproducibilidad.
+colaboraciones. Enmarcamos nuestras actividades académicas y de
+investigación bajo la perspectiva de ciencia abierta y reproducibilidad.
 
 ```{=html}
 <!-- explain here what is open science, reproducibility, and provide examples of current collaborations
@@ -67,3 +65,43 @@ los grupos de trabajo -->
 ```
 
 ## El camino a seguir 2027-2029
+
+Cómo se evoluciona de ser una red a una comunidad? Queremos ser una
+"comunidad" que investiga o acciona en la diabetes. Las actividades que
+vamos a implementar buscan motivar y/o fortalecer el sentido de
+pertenencia a la red, su valor, y la confianza entre los miembros. Al
+mismo tiempo queremos poner en marcha proyectos de diabetes de alta
+calidad y rigor científico.
+
+Actividades: - Los seminarios en línea van a continuar con un formato a
+demanda. Es decir que queremos seguir promoviendo ese espacio virtual de
+difusión sincrónica pero ahora a demanda. Si algún miembro de la red
+quisiera presentar los resultados de uno de sus proyectos, ese espacio
+estaría a su disposición. (respetando los días-Miércoles- y horarios
+establecidos (depende de la zona horaria).
+
+- Grupo de estudio sobre GitHub. Queremos promover el uso de
+  herramientas de libre acceso que permitan prácticas modernas de
+  colaboración como el uso de sistemas de control de cambios. Existe
+  mucho material disponible en la red sobre su uso, por lo que diseñar
+  un curso es poco eficaz para el próposito de establecer proyectos
+  colaborativos utilizando este tipo de herramientas. Un grupo de
+  estudio consise en participantes que revisan material didáctico de
+  manera independiente y asincrónica, luego coincide con un grupo de
+  otros participantes para discutir de manera grupal el proceso de
+  implementación del flujo de trabajo. Una vez estudiado y establecido
+  este flujo de trabajo, se ejecutará un proyecto en grupos utilizando
+  datos de libre acceso (ENSAEM, ENSANUT, ELSA, ENSA de Perú) y las
+  herramientas para elaborar un proyecto sobre diabetes con un flujo de
+  trabajo reproducible.
+
+- News letter. Otra manera de conocer mejor el trabajo y las ambiciones
+  de los miembros de la red, es mediante un news letter. El contenido
+  del newsletter y la frecuencia con que se distribuya está abierto a
+  discusión y definición. Queremos co-diseñar las actividades de la
+  siguiente fase del proyecto, es por eso que se invulcren es importante
+  para fortalecer nuestros vínculos!
+
+- Collaborative write-ups.
+
+- Funding applications
