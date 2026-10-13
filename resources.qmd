@@ -3,9 +3,20 @@ title: "Más recursos"
 ---
 
 En está página puedes acceder al material de los cursos que hemos
-impartido.
+impartido y las aplicaciones que hemos sometido
+
+## Talleres
 
 [Taller introductorio de mediación
 causal](https://sdca-latam.github.io/mediation-course/)
 
-<!-- Daniel insert here the link to the courses-->
+[Introducción al uso de registros nacionales de salud para
+investigación](https://sdca-latam.github.io/curso-registros-esp/)
+
+## Aplicaciones sometidas
+
+[LatinDiab-1]()
+
+[LatinDiab]()
+
+[Global Innovation Network Programme]()
